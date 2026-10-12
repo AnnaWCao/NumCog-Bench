@@ -1,4 +1,4 @@
-# ANS Benchmark — clean, pre-stitched release
+# NumCog-Bench — clean, pre-stitched release
 
 A cognitively-grounded benchmark for **numerical cognition in vision-language models**,
 covering **exact counting** and **approximate numerosity discrimination (ANS)**. This is the
