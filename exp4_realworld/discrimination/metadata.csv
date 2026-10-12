@@ -1,0 +1,585 @@
+image,pair_num,condition,left_category,right_category,left_count,right_count,num_ratio,answer
+exp4_same_cat_0001.png,1,same_cat,candles,candles,10,9,0.9,left
+exp4_same_cat_0002.png,2,same_cat,nuts,nuts,110,43,0.3909090909090909,left
+exp4_same_cat_0003.png,3,same_cat,bowls,bowls,34,13,0.38235294117647056,left
+exp4_same_cat_0004.png,4,same_cat,donuts tray,donuts tray,12,8,0.6666666666666666,left
+exp4_same_cat_0005.png,5,same_cat,tomatoes,tomatoes,18,24,0.75,right
+exp4_same_cat_0006.png,6,same_cat,green peas,green peas,56,110,0.509090909090909,right
+exp4_same_cat_0007.png,7,same_cat,cotton balls,cotton balls,10,8,0.8,left
+exp4_same_cat_0008.png,8,same_cat,lipstick,lipstick,49,14,0.2857142857142857,left
+exp4_same_cat_0009.png,9,same_cat,bottles,bottles,61,116,0.5258620689655172,right
+exp4_same_cat_0010.png,10,same_cat,windows,windows,26,13,0.5,left
+exp4_same_cat_0011.png,11,same_cat,stamps,stamps,9,52,0.17307692307692307,right
+exp4_same_cat_0012.png,12,same_cat,stairs,stairs,24,13,0.5416666666666666,left
+exp4_same_cat_0013.png,13,same_cat,sheep,sheep,181,122,0.6740331491712708,left
+exp4_same_cat_0014.png,14,same_cat,elephants,elephants,36,13,0.3611111111111111,left
+exp4_same_cat_0015.png,15,same_cat,pills,pills,9,16,0.5625,right
+exp4_same_cat_0016.png,16,same_cat,cement bags,cement bags,91,30,0.32967032967032966,left
+exp4_same_cat_0017.png,17,same_cat,kidney beans,kidney beans,21,89,0.23595505617977527,right
+exp4_same_cat_0018.png,18,same_cat,balls,balls,10,9,0.9,left
+exp4_same_cat_0019.png,19,same_cat,grapes,grapes,112,33,0.29464285714285715,left
+exp4_same_cat_0020.png,20,same_cat,comic books,comic books,16,24,0.6666666666666666,right
+exp4_same_cat_0021.png,21,same_cat,macarons,macarons,12,14,0.8571428571428571,right
+exp4_same_cat_0022.png,22,same_cat,pens,pens,12,10,0.8333333333333334,left
+exp4_same_cat_0023.png,23,same_cat,sunglasses,sunglasses,96,28,0.2916666666666667,left
+exp4_same_cat_0024.png,24,same_cat,pencils,pencils,12,40,0.3,right
+exp4_same_cat_0025.png,25,same_cat,boxes,boxes,24,123,0.1951219512195122,right
+exp4_same_cat_0026.png,26,same_cat,roof tiles,roof tiles,183,197,0.9289340101522843,right
+exp4_same_cat_0027.png,27,same_cat,caps,caps,109,193,0.5647668393782384,right
+exp4_same_cat_0028.png,28,same_cat,peaches,peaches,21,42,0.5,right
+exp4_same_cat_0029.png,29,same_cat,pearls,pearls,25,10,0.4,left
+exp4_same_cat_0030.png,30,same_cat,plates,plates,20,52,0.38461538461538464,right
+exp4_same_cat_0031.png,31,same_cat,apples,apples,22,147,0.14965986394557823,right
+exp4_same_cat_0032.png,32,same_cat,horses,horses,9,15,0.6,right
+exp4_same_cat_0033.png,33,same_cat,chicken wings,chicken wings,17,30,0.5666666666666667,right
+exp4_same_cat_0034.png,34,same_cat,polka dots,polka dots,146,81,0.5547945205479452,left
+exp4_same_cat_0035.png,35,same_cat,cupcake tray,cupcake tray,11,117,0.09401709401709402,right
+exp4_same_cat_0036.png,36,same_cat,keyboard keys,keyboard keys,77,124,0.6209677419354839,right
+exp4_same_cat_0037.png,37,same_cat,spoon,spoon,20,18,0.9,left
+exp4_same_cat_0038.png,38,same_cat,birds,birds,17,10,0.5882352941176471,left
+exp4_same_cat_0039.png,39,same_cat,fishes,fishes,149,28,0.18791946308724833,left
+exp4_same_cat_0040.png,40,same_cat,chairs,chairs,119,12,0.10084033613445378,left
+exp4_same_cat_0041.png,41,same_cat,cupcakes,cupcakes,15,16,0.9375,right
+exp4_same_cat_0042.png,42,same_cat,hot air balloons,hot air balloons,10,9,0.9,left
+exp4_same_cat_0043.png,43,same_cat,books,books,20,17,0.85,left
+exp4_same_cat_0044.png,44,same_cat,mini blinds,mini blinds,20,43,0.46511627906976744,right
+exp4_same_cat_0045.png,45,same_cat,eggs,eggs,67,46,0.6865671641791045,left
+exp4_same_cat_0046.png,46,same_cat,penguins,penguins,17,8,0.47058823529411764,left
+exp4_same_cat_0047.png,47,same_cat,coffee beans,coffee beans,72,102,0.7058823529411765,right
+exp4_same_cat_0048.png,48,same_cat,cups,cups,21,23,0.9130434782608695,right
+exp4_same_cat_0049.png,49,same_cat,bricks,bricks,175,66,0.37714285714285717,left
+exp4_same_cat_0050.png,50,same_cat,bread rolls,bread rolls,8,20,0.4,right
+exp4_same_cat_0051.png,51,same_cat,strawberries,strawberries,30,10,0.3333333333333333,left
+exp4_same_cat_0052.png,52,same_cat,cars,cars,87,34,0.39080459770114945,left
+exp4_same_cat_0053.png,53,same_cat,cans,cans,12,42,0.2857142857142857,right
+exp4_same_cat_0054.png,54,same_cat,bottle caps,bottle caps,28,119,0.23529411764705882,right
+exp4_same_cat_0055.png,55,same_cat,ants,ants,14,13,0.9285714285714286,left
+exp4_same_cat_0056.png,56,same_cat,oranges,oranges,59,15,0.2542372881355932,left
+exp4_same_cat_0057.png,57,same_cat,nail polish,nail polish,118,66,0.559322033898305,left
+exp4_same_cat_0058.png,58,same_cat,shoes,shoes,141,10,0.07092198581560284,left
+exp4_same_cat_0059.png,59,same_cat,finger foods,finger foods,8,9,0.8888888888888888,right
+exp4_same_cat_0060.png,60,same_cat,marbles,marbles,57,12,0.21052631578947367,left
+exp4_same_cat_0061.png,61,same_cat,tree logs,tree logs,166,31,0.18674698795180722,left
+exp4_same_cat_0062.png,62,same_cat,kiwis,kiwis,54,33,0.6111111111111112,left
+exp4_same_cat_0063.png,63,same_cat,potatoes,potatoes,40,34,0.85,left
+exp4_same_cat_0064.png,64,same_cat,biscuits,biscuits,12,18,0.6666666666666666,right
+exp4_same_cat_0065.png,65,same_cat,beads,beads,57,43,0.7543859649122807,left
+exp4_same_cat_0066.png,66,same_cat,coins,coins,58,76,0.7631578947368421,right
+exp4_same_cat_0067.png,67,same_cat,jade stones,jade stones,35,13,0.37142857142857144,left
+exp4_same_cat_0068.png,68,same_cat,candles,candles,10,24,0.4166666666666667,right
+exp4_same_cat_0069.png,69,same_cat,nuts,nuts,35,71,0.49295774647887325,right
+exp4_same_cat_0070.png,70,same_cat,bowls,bowls,75,24,0.32,left
+exp4_same_cat_0071.png,71,same_cat,donuts tray,donuts tray,30,16,0.5333333333333333,left
+exp4_same_cat_0072.png,72,same_cat,tomatoes,tomatoes,49,26,0.5306122448979592,left
+exp4_same_cat_0073.png,73,same_cat,green peas,green peas,72,185,0.3891891891891892,right
+exp4_same_cat_0074.png,74,same_cat,cotton balls,cotton balls,61,30,0.4918032786885246,left
+exp4_same_cat_0076.png,76,same_cat,bottles,bottles,122,16,0.13114754098360656,left
+exp4_same_cat_0077.png,77,same_cat,windows,windows,30,62,0.4838709677419355,right
+exp4_same_cat_0078.png,78,same_cat,stamps,stamps,13,36,0.3611111111111111,right
+exp4_same_cat_0079.png,79,same_cat,stairs,stairs,18,64,0.28125,right
+exp4_same_cat_0080.png,80,same_cat,sheep,sheep,44,54,0.8148148148148148,right
+exp4_same_cat_0081.png,81,same_cat,elephants,elephants,11,23,0.4782608695652174,right
+exp4_same_cat_0082.png,82,same_cat,pills,pills,17,50,0.34,right
+exp4_same_cat_0083.png,83,same_cat,cement bags,cement bags,46,20,0.43478260869565216,left
+exp4_same_cat_0084.png,84,same_cat,kidney beans,kidney beans,95,103,0.9223300970873787,right
+exp4_same_cat_0085.png,85,same_cat,balls,balls,51,11,0.21568627450980393,left
+exp4_same_cat_0086.png,86,same_cat,grapes,grapes,53,74,0.7162162162162162,right
+exp4_same_cat_0087.png,87,same_cat,comic books,comic books,85,12,0.1411764705882353,left
+exp4_same_cat_0088.png,88,same_cat,macarons,macarons,18,12,0.6666666666666666,left
+exp4_same_cat_0089.png,89,same_cat,pens,pens,13,61,0.21311475409836064,right
+exp4_same_cat_0090.png,90,same_cat,sunglasses,sunglasses,63,79,0.7974683544303798,right
+exp4_same_cat_0091.png,91,same_cat,pencils,pencils,61,25,0.4098360655737705,left
+exp4_same_cat_0092.png,92,same_cat,boxes,boxes,108,81,0.75,left
+exp4_same_cat_0093.png,93,same_cat,roof tiles,roof tiles,125,53,0.424,left
+exp4_same_cat_0094.png,94,same_cat,caps,caps,129,33,0.2558139534883721,left
+exp4_same_cat_0095.png,95,same_cat,peaches,peaches,69,39,0.5652173913043478,left
+exp4_same_cat_0096.png,96,same_cat,pearls,pearls,42,76,0.5526315789473685,right
+exp4_same_cat_0097.png,97,same_cat,plates,plates,11,14,0.7857142857142857,right
+exp4_same_cat_0098.png,98,same_cat,apples,apples,11,12,0.9166666666666666,right
+exp4_same_cat_0099.png,99,same_cat,horses,horses,13,11,0.8461538461538461,left
+exp4_same_cat_0100.png,100,same_cat,chicken wings,chicken wings,27,13,0.48148148148148145,left
+exp4_same_cat_0101.png,101,same_cat,polka dots,polka dots,30,64,0.46875,right
+exp4_same_cat_0102.png,102,same_cat,cupcake tray,cupcake tray,48,9,0.1875,left
+exp4_same_cat_0103.png,103,same_cat,keyboard keys,keyboard keys,87,86,0.9885057471264368,left
+exp4_same_cat_0104.png,104,same_cat,spoon,spoon,13,12,0.9230769230769231,left
+exp4_same_cat_0106.png,106,same_cat,fishes,fishes,30,89,0.33707865168539325,right
+exp4_same_cat_0107.png,107,same_cat,chairs,chairs,32,107,0.29906542056074764,right
+exp4_same_cat_0108.png,108,same_cat,cupcakes,cupcakes,12,13,0.9230769230769231,right
+exp4_same_cat_0109.png,109,same_cat,hot air balloons,hot air balloons,11,30,0.36666666666666664,right
+exp4_same_cat_0110.png,110,same_cat,books,books,84,100,0.84,right
+exp4_same_cat_0111.png,111,same_cat,mini blinds,mini blinds,52,67,0.7761194029850746,right
+exp4_same_cat_0112.png,112,same_cat,eggs,eggs,22,35,0.6285714285714286,right
+exp4_same_cat_0113.png,113,same_cat,penguins,penguins,30,8,0.26666666666666666,left
+exp4_same_cat_0114.png,114,same_cat,coffee beans,coffee beans,72,84,0.8571428571428571,right
+exp4_same_cat_0115.png,115,same_cat,cups,cups,16,72,0.2222222222222222,right
+exp4_same_cat_0116.png,116,same_cat,bricks,bricks,149,61,0.40939597315436244,left
+exp4_same_cat_0117.png,117,same_cat,bread rolls,bread rolls,12,8,0.6666666666666666,left
+exp4_same_cat_0118.png,118,same_cat,strawberries,strawberries,57,113,0.504424778761062,right
+exp4_same_cat_0119.png,119,same_cat,cars,cars,31,48,0.6458333333333334,right
+exp4_same_cat_0120.png,120,same_cat,cans,cans,16,108,0.14814814814814814,right
+exp4_same_cat_0121.png,121,same_cat,bottle caps,bottle caps,12,51,0.23529411764705882,right
+exp4_same_cat_0122.png,122,same_cat,ants,ants,19,24,0.7916666666666666,right
+exp4_same_cat_0123.png,123,same_cat,oranges,oranges,15,68,0.22058823529411764,right
+exp4_same_cat_0124.png,124,same_cat,nail polish,nail polish,59,43,0.7288135593220338,left
+exp4_same_cat_0125.png,125,same_cat,shoes,shoes,84,77,0.9166666666666666,left
+exp4_same_cat_0126.png,126,same_cat,finger foods,finger foods,9,13,0.6923076923076923,right
+exp4_same_cat_0127.png,127,same_cat,marbles,marbles,76,11,0.14473684210526316,left
+exp4_same_cat_0128.png,128,same_cat,tree logs,tree logs,102,51,0.5,left
+exp4_same_cat_0129.png,129,same_cat,kiwis,kiwis,34,12,0.35294117647058826,left
+exp4_same_cat_0130.png,130,same_cat,potatoes,potatoes,24,28,0.8571428571428571,right
+exp4_same_cat_0131.png,131,same_cat,biscuits,biscuits,23,10,0.4347826086956521,left
+exp4_same_cat_0132.png,132,same_cat,beads,beads,14,106,0.1320754716981132,right
+exp4_same_cat_0133.png,133,same_cat,coins,coins,35,46,0.7608695652173914,right
+exp4_same_cat_0134.png,134,same_cat,jade stones,jade stones,31,15,0.4838709677419355,left
+exp4_same_cat_0135.png,135,same_cat,candles,candles,26,12,0.46153846153846156,left
+exp4_same_cat_0136.png,136,same_cat,nuts,nuts,21,31,0.6774193548387096,right
+exp4_same_cat_0137.png,137,same_cat,bowls,bowls,49,21,0.42857142857142855,left
+exp4_same_cat_0138.png,138,same_cat,donuts tray,donuts tray,10,12,0.8333333333333334,right
+exp4_same_cat_0139.png,139,same_cat,tomatoes,tomatoes,14,149,0.09395973154362416,right
+exp4_same_cat_0140.png,140,same_cat,green peas,green peas,131,113,0.8625954198473282,left
+exp4_same_cat_0141.png,141,same_cat,cotton balls,cotton balls,14,69,0.2028985507246377,right
+exp4_same_cat_0142.png,142,same_cat,lipstick,lipstick,24,28,0.8571428571428571,right
+exp4_same_cat_0143.png,143,same_cat,bottles,bottles,115,58,0.5043478260869565,left
+exp4_same_cat_0144.png,144,same_cat,windows,windows,45,113,0.39823008849557523,right
+exp4_same_cat_0145.png,145,same_cat,stamps,stamps,43,55,0.7818181818181819,right
+exp4_same_cat_0146.png,146,same_cat,stairs,stairs,13,11,0.8461538461538461,left
+exp4_same_cat_0147.png,147,same_cat,sheep,sheep,51,22,0.43137254901960786,left
+exp4_same_cat_0148.png,148,same_cat,elephants,elephants,54,22,0.4074074074074074,left
+exp4_same_cat_0149.png,149,same_cat,pills,pills,18,24,0.75,right
+exp4_same_cat_0150.png,150,same_cat,cement bags,cement bags,31,41,0.7560975609756098,right
+exp4_same_cat_0151.png,151,same_cat,kidney beans,kidney beans,70,31,0.44285714285714284,left
+exp4_same_cat_0153.png,153,same_cat,grapes,grapes,55,41,0.7454545454545455,left
+exp4_same_cat_0154.png,154,same_cat,comic books,comic books,25,30,0.8333333333333334,right
+exp4_same_cat_0155.png,155,same_cat,macarons,macarons,9,10,0.9,right
+exp4_same_cat_0156.png,156,same_cat,pens,pens,87,15,0.1724137931034483,left
+exp4_same_cat_0157.png,157,same_cat,sunglasses,sunglasses,73,198,0.3686868686868687,right
+exp4_same_cat_0158.png,158,same_cat,pencils,pencils,12,72,0.16666666666666666,right
+exp4_same_cat_0159.png,159,same_cat,boxes,boxes,31,17,0.5483870967741935,left
+exp4_same_cat_0160.png,160,same_cat,roof tiles,roof tiles,159,58,0.36477987421383645,left
+exp4_same_cat_0161.png,161,same_cat,caps,caps,34,20,0.5882352941176471,left
+exp4_same_cat_0162.png,162,same_cat,peaches,peaches,30,82,0.36585365853658536,right
+exp4_same_cat_0163.png,163,same_cat,pearls,pearls,38,24,0.631578947368421,left
+exp4_same_cat_0164.png,164,same_cat,plates,plates,57,17,0.2982456140350877,left
+exp4_same_cat_0165.png,165,same_cat,apples,apples,140,60,0.42857142857142855,left
+exp4_same_cat_0166.png,166,same_cat,horses,horses,14,13,0.9285714285714286,left
+exp4_same_cat_0167.png,167,same_cat,chicken wings,chicken wings,12,23,0.5217391304347826,right
+exp4_same_cat_0168.png,168,same_cat,polka dots,polka dots,72,43,0.5972222222222222,left
+exp4_same_cat_0170.png,170,same_cat,keyboard keys,keyboard keys,108,104,0.9629629629629629,left
+exp4_same_cat_0171.png,171,same_cat,spoon,spoon,20,8,0.4,left
+exp4_same_cat_0172.png,172,same_cat,birds,birds,13,92,0.14130434782608695,right
+exp4_same_cat_0173.png,173,same_cat,fishes,fishes,26,31,0.8387096774193549,right
+exp4_same_cat_0174.png,174,same_cat,chairs,chairs,58,26,0.4482758620689655,left
+exp4_same_cat_0175.png,175,same_cat,cupcakes,cupcakes,12,17,0.7058823529411765,right
+exp4_same_cat_0176.png,176,same_cat,hot air balloons,hot air balloons,113,63,0.5575221238938053,left
+exp4_same_cat_0177.png,177,same_cat,books,books,35,41,0.8536585365853658,right
+exp4_same_cat_0178.png,178,same_cat,mini blinds,mini blinds,9,62,0.14516129032258066,right
+exp4_same_cat_0179.png,179,same_cat,eggs,eggs,24,39,0.6153846153846154,right
+exp4_same_cat_0180.png,180,same_cat,penguins,penguins,125,9,0.072,left
+exp4_same_cat_0181.png,181,same_cat,coffee beans,coffee beans,31,35,0.8857142857142857,right
+exp4_same_cat_0182.png,182,same_cat,cups,cups,63,30,0.47619047619047616,left
+exp4_same_cat_0183.png,183,same_cat,bricks,bricks,144,143,0.9930555555555556,left
+exp4_same_cat_0184.png,184,same_cat,bread rolls,bread rolls,10,12,0.8333333333333334,right
+exp4_same_cat_0185.png,185,same_cat,strawberries,strawberries,37,34,0.918918918918919,left
+exp4_same_cat_0186.png,186,same_cat,cars,cars,40,155,0.25806451612903225,right
+exp4_same_cat_0187.png,187,same_cat,cans,cans,13,20,0.65,right
+exp4_same_cat_0188.png,188,same_cat,bottle caps,bottle caps,48,111,0.43243243243243246,right
+exp4_same_cat_0189.png,189,same_cat,ants,ants,67,72,0.9305555555555556,right
+exp4_same_cat_0190.png,190,same_cat,oranges,oranges,34,48,0.7083333333333334,right
+exp4_same_cat_0191.png,191,same_cat,nail polish,nail polish,72,25,0.3472222222222222,left
+exp4_same_cat_0192.png,192,same_cat,shoes,shoes,105,52,0.49523809523809526,left
+exp4_same_cat_0193.png,193,same_cat,finger foods,finger foods,13,12,0.9230769230769231,left
+exp4_same_cat_0194.png,194,same_cat,marbles,marbles,54,20,0.37037037037037035,left
+exp4_same_cat_0195.png,195,same_cat,tree logs,tree logs,51,29,0.5686274509803921,left
+exp4_same_cat_0196.png,196,same_cat,kiwis,kiwis,51,22,0.43137254901960786,left
+exp4_same_cat_0197.png,197,same_cat,potatoes,potatoes,17,72,0.2361111111111111,right
+exp4_same_cat_0198.png,198,same_cat,biscuits,biscuits,18,12,0.6666666666666666,left
+exp4_same_cat_0199.png,199,same_cat,beads,beads,29,110,0.2636363636363636,right
+exp4_same_cat_0200.png,200,same_cat,coins,coins,68,93,0.7311827956989247,right
+exp4_same_cat_0201.png,201,same_cat,jade stones,jade stones,26,25,0.9615384615384616,left
+exp4_same_cat_0202.png,202,same_cat,candles,candles,9,8,0.8888888888888888,left
+exp4_same_cat_0203.png,203,same_cat,nuts,nuts,23,42,0.5476190476190477,right
+exp4_same_cat_0204.png,204,same_cat,bowls,bowls,59,92,0.6413043478260869,right
+exp4_same_cat_0205.png,205,same_cat,donuts tray,donuts tray,10,9,0.9,left
+exp4_same_cat_0206.png,206,same_cat,tomatoes,tomatoes,47,75,0.6266666666666667,right
+exp4_same_cat_0207.png,207,same_cat,green peas,green peas,84,44,0.5238095238095238,left
+exp4_same_cat_0208.png,208,same_cat,cotton balls,cotton balls,15,27,0.5555555555555556,right
+exp4_same_cat_0209.png,209,same_cat,lipstick,lipstick,49,62,0.7903225806451613,right
+exp4_same_cat_0210.png,210,same_cat,bottles,bottles,25,145,0.1724137931034483,right
+exp4_same_cat_0211.png,211,same_cat,windows,windows,40,45,0.8888888888888888,right
+exp4_same_cat_0212.png,212,same_cat,stamps,stamps,20,31,0.6451612903225806,right
+exp4_same_cat_0213.png,213,same_cat,stairs,stairs,11,16,0.6875,right
+exp4_same_cat_0214.png,214,same_cat,sheep,sheep,31,67,0.4626865671641791,right
+exp4_same_cat_0215.png,215,same_cat,elephants,elephants,27,22,0.8148148148148148,left
+exp4_same_cat_0216.png,216,same_cat,pills,pills,65,9,0.13846153846153847,left
+exp4_same_cat_0217.png,217,same_cat,cement bags,cement bags,42,167,0.25149700598802394,right
+exp4_same_cat_0218.png,218,same_cat,kidney beans,kidney beans,45,189,0.23809523809523808,right
+exp4_same_cat_0219.png,219,same_cat,balls,balls,8,9,0.8888888888888888,right
+exp4_same_cat_0220.png,220,same_cat,grapes,grapes,58,65,0.8923076923076924,right
+exp4_same_cat_0221.png,221,same_cat,comic books,comic books,45,49,0.9183673469387755,right
+exp4_same_cat_0222.png,222,same_cat,macarons,macarons,41,16,0.3902439024390244,left
+exp4_same_cat_0223.png,223,same_cat,pens,pens,41,21,0.5121951219512195,left
+exp4_same_cat_0224.png,224,same_cat,sunglasses,sunglasses,81,8,0.09876543209876543,left
+exp4_same_cat_0225.png,225,same_cat,pencils,pencils,12,18,0.6666666666666666,right
+exp4_same_cat_0226.png,226,same_cat,boxes,boxes,47,30,0.6382978723404256,left
+exp4_same_cat_0227.png,227,same_cat,roof tiles,roof tiles,25,24,0.96,left
+exp4_same_cat_0228.png,228,same_cat,caps,caps,14,62,0.22580645161290322,right
+exp4_same_cat_0229.png,229,same_cat,peaches,peaches,133,85,0.6390977443609023,left
+exp4_same_cat_0230.png,230,same_cat,pearls,pearls,15,19,0.7894736842105263,right
+exp4_same_cat_0231.png,231,same_cat,plates,plates,15,27,0.5555555555555556,right
+exp4_same_cat_0233.png,233,same_cat,horses,horses,59,11,0.1864406779661017,left
+exp4_same_cat_0234.png,234,same_cat,chicken wings,chicken wings,12,18,0.6666666666666666,right
+exp4_same_cat_0235.png,235,same_cat,polka dots,polka dots,100,41,0.41,left
+exp4_same_cat_0237.png,237,same_cat,keyboard keys,keyboard keys,108,48,0.4444444444444444,left
+exp4_same_cat_0238.png,238,same_cat,spoon,spoon,13,8,0.6153846153846154,left
+exp4_same_cat_0239.png,239,same_cat,birds,birds,38,9,0.23684210526315788,left
+exp4_same_cat_0240.png,240,same_cat,fishes,fishes,17,19,0.8947368421052632,right
+exp4_same_cat_0241.png,241,same_cat,chairs,chairs,10,124,0.08064516129032258,right
+exp4_same_cat_0242.png,242,same_cat,cupcakes,cupcakes,12,8,0.6666666666666666,left
+exp4_same_cat_0243.png,243,same_cat,hot air balloons,hot air balloons,8,69,0.11594202898550725,right
+exp4_same_cat_0244.png,244,same_cat,books,books,162,16,0.09876543209876543,left
+exp4_same_cat_0245.png,245,same_cat,mini blinds,mini blinds,38,25,0.6578947368421053,left
+exp4_same_cat_0246.png,246,same_cat,eggs,eggs,58,26,0.4482758620689655,left
+exp4_same_cat_0247.png,247,same_cat,penguins,penguins,24,10,0.4166666666666667,left
+exp4_same_cat_0248.png,248,same_cat,coffee beans,coffee beans,100,9,0.09,left
+exp4_same_cat_0249.png,249,same_cat,cups,cups,17,16,0.9411764705882353,left
+exp4_same_cat_0250.png,250,same_cat,bricks,bricks,199,21,0.10552763819095477,left
+exp4_same_cat_0252.png,252,same_cat,strawberries,strawberries,26,51,0.5098039215686274,right
+exp4_same_cat_0253.png,253,same_cat,cars,cars,14,24,0.5833333333333334,right
+exp4_same_cat_0254.png,254,same_cat,cans,cans,19,46,0.41304347826086957,right
+exp4_same_cat_0255.png,255,same_cat,bottle caps,bottle caps,68,9,0.1323529411764706,left
+exp4_same_cat_0256.png,256,same_cat,ants,ants,72,8,0.1111111111111111,left
+exp4_same_cat_0257.png,257,same_cat,oranges,oranges,43,50,0.86,right
+exp4_same_cat_0258.png,258,same_cat,nail polish,nail polish,98,51,0.5204081632653061,left
+exp4_same_cat_0260.png,260,same_cat,finger foods,finger foods,19,18,0.9473684210526315,left
+exp4_same_cat_0261.png,261,same_cat,marbles,marbles,118,149,0.7919463087248322,right
+exp4_same_cat_0262.png,262,same_cat,tree logs,tree logs,49,56,0.875,right
+exp4_same_cat_0263.png,263,same_cat,kiwis,kiwis,8,24,0.3333333333333333,right
+exp4_same_cat_0264.png,264,same_cat,potatoes,potatoes,8,16,0.5,right
+exp4_same_cat_0265.png,265,same_cat,biscuits,biscuits,132,14,0.10606060606060606,left
+exp4_same_cat_0266.png,266,same_cat,beads,beads,108,68,0.6296296296296297,left
+exp4_same_cat_0267.png,267,same_cat,coins,coins,92,80,0.8695652173913043,left
+exp4_same_cat_0268.png,268,same_cat,jade stones,jade stones,27,16,0.5925925925925926,left
+exp4_same_cat_0269.png,269,same_cat,candles,candles,47,20,0.425531914893617,left
+exp4_same_cat_0270.png,270,same_cat,nuts,nuts,96,74,0.7708333333333334,left
+exp4_same_cat_0271.png,271,same_cat,bowls,bowls,13,27,0.48148148148148145,right
+exp4_same_cat_0273.png,273,same_cat,tomatoes,tomatoes,46,91,0.5054945054945055,right
+exp4_same_cat_0274.png,274,same_cat,green peas,green peas,146,11,0.07534246575342465,left
+exp4_same_cat_0275.png,275,same_cat,cotton balls,cotton balls,8,31,0.25806451612903225,right
+exp4_same_cat_0276.png,276,same_cat,lipstick,lipstick,15,8,0.5333333333333333,left
+exp4_same_cat_0277.png,277,same_cat,bottles,bottles,75,58,0.7733333333333333,left
+exp4_same_cat_0278.png,278,same_cat,windows,windows,14,16,0.875,right
+exp4_same_cat_0280.png,280,same_cat,stairs,stairs,14,11,0.7857142857142857,left
+exp4_same_cat_0281.png,281,same_cat,sheep,sheep,75,109,0.6880733944954128,right
+exp4_same_cat_0282.png,282,same_cat,elephants,elephants,20,11,0.55,left
+exp4_same_cat_0283.png,283,same_cat,pills,pills,28,61,0.45901639344262296,right
+exp4_same_cat_0284.png,284,same_cat,cement bags,cement bags,27,56,0.48214285714285715,right
+exp4_same_cat_0285.png,285,same_cat,kidney beans,kidney beans,55,43,0.7818181818181819,left
+exp4_same_cat_0286.png,286,same_cat,balls,balls,16,15,0.9375,left
+exp4_same_cat_0287.png,287,same_cat,grapes,grapes,61,49,0.8032786885245902,left
+exp4_same_cat_0288.png,288,same_cat,comic books,comic books,36,45,0.8,right
+exp4_same_cat_0289.png,289,same_cat,macarons,macarons,16,24,0.6666666666666666,right
+exp4_same_cat_0290.png,290,same_cat,pens,pens,24,72,0.3333333333333333,right
+exp4_same_cat_0291.png,291,same_cat,sunglasses,sunglasses,134,45,0.3358208955223881,left
+exp4_same_cat_0292.png,292,same_cat,pencils,pencils,36,61,0.5901639344262295,right
+exp4_same_cat_0293.png,293,same_cat,boxes,boxes,68,24,0.35294117647058826,left
+exp4_same_cat_0294.png,294,same_cat,roof tiles,roof tiles,16,27,0.5925925925925926,right
+exp4_same_cat_0295.png,295,same_cat,caps,caps,51,34,0.6666666666666666,left
+exp4_same_cat_0296.png,296,same_cat,peaches,peaches,41,14,0.34146341463414637,left
+exp4_same_cat_0297.png,297,same_cat,pearls,pearls,138,66,0.4782608695652174,left
+exp4_same_cat_0298.png,298,same_cat,plates,plates,25,12,0.48,left
+exp4_same_cat_0299.png,299,same_cat,apples,apples,75,111,0.6756756756756757,right
+exp4_diff_cat_0002.png,2,diff_cat,nuts,hot air balloons,43,11,0.2558139534883721,left
+exp4_diff_cat_0003.png,3,diff_cat,cans,bowls,23,34,0.6764705882352942,right
+exp4_diff_cat_0004.png,4,diff_cat,sunglasses,donuts tray,15,8,0.5333333333333333,left
+exp4_diff_cat_0005.png,5,diff_cat,bread rolls,tomatoes,12,18,0.6666666666666666,right
+exp4_diff_cat_0006.png,6,diff_cat,green peas,beads,56,48,0.8571428571428571,left
+exp4_diff_cat_0007.png,7,diff_cat,tree logs,cotton balls,30,10,0.3333333333333333,left
+exp4_diff_cat_0008.png,8,diff_cat,ants,lipstick,44,49,0.8979591836734694,right
+exp4_diff_cat_0009.png,9,diff_cat,bottles,macarons,61,32,0.5245901639344263,left
+exp4_diff_cat_0010.png,10,diff_cat,windows,coins,13,10,0.7692307692307693,left
+exp4_diff_cat_0011.png,11,diff_cat,stamps,roof tiles,9,53,0.16981132075471697,right
+exp4_diff_cat_0012.png,12,diff_cat,coins,stairs,166,24,0.14457831325301204,left
+exp4_diff_cat_0013.png,13,diff_cat,sheep,eggs,122,13,0.10655737704918032,left
+exp4_diff_cat_0014.png,14,diff_cat,elephants,biscuits,36,12,0.3333333333333333,left
+exp4_diff_cat_0015.png,15,diff_cat,pills,shoes,16,85,0.18823529411764706,right
+exp4_diff_cat_0016.png,16,diff_cat,strawberries,cement bags,63,91,0.6923076923076923,right
+exp4_diff_cat_0017.png,17,diff_cat,kidney beans,birds,21,15,0.7142857142857143,left
+exp4_diff_cat_0018.png,18,diff_cat,balls,cups,9,159,0.05660377358490566,right
+exp4_diff_cat_0019.png,19,diff_cat,nuts,grapes,13,33,0.3939393939393939,right
+exp4_diff_cat_0020.png,20,diff_cat,horses,comic books,9,16,0.5625,right
+exp4_diff_cat_0021.png,21,diff_cat,macarons,strawberries,14,16,0.875,right
+exp4_diff_cat_0022.png,22,diff_cat,pens,grapes,10,65,0.15384615384615385,right
+exp4_diff_cat_0023.png,23,diff_cat,sunglasses,comic books,96,98,0.9795918367346939,right
+exp4_diff_cat_0024.png,24,diff_cat,pencils,hot air balloons,12,15,0.8,right
+exp4_diff_cat_0025.png,25,diff_cat,boxes,cupcake tray,24,12,0.5,left
+exp4_diff_cat_0026.png,26,diff_cat,roof tiles,pencils,197,61,0.3096446700507614,left
+exp4_diff_cat_0027.png,27,diff_cat,caps,books,109,20,0.1834862385321101,left
+exp4_diff_cat_0028.png,28,diff_cat,bottles,peaches,8,42,0.19047619047619047,right
+exp4_diff_cat_0029.png,29,diff_cat,pearls,beads,10,92,0.10869565217391304,right
+exp4_diff_cat_0030.png,30,diff_cat,kiwis,plates,64,52,0.8125,left
+exp4_diff_cat_0031.png,31,diff_cat,eggs,apples,31,22,0.7096774193548387,left
+exp4_diff_cat_0032.png,32,diff_cat,horses,grapes,15,84,0.17857142857142858,right
+exp4_diff_cat_0033.png,33,diff_cat,marbles,chicken wings,8,17,0.47058823529411764,right
+exp4_diff_cat_0034.png,34,diff_cat,apples,polka dots,27,146,0.18493150684931506,right
+exp4_diff_cat_0035.png,35,diff_cat,cupcake tray,stairs,117,10,0.08547008547008547,left
+exp4_diff_cat_0036.png,36,diff_cat,boxes,keyboard keys,66,77,0.8571428571428571,right
+exp4_diff_cat_0037.png,37,diff_cat,pearls,spoon,18,20,0.9,right
+exp4_diff_cat_0038.png,38,diff_cat,stamps,birds,32,17,0.53125,left
+exp4_diff_cat_0039.png,39,diff_cat,fishes,bottles,28,34,0.8235294117647058,right
+exp4_diff_cat_0040.png,40,diff_cat,chairs,stairs,119,12,0.10084033613445378,left
+exp4_diff_cat_0041.png,41,diff_cat,stairs,cupcakes,13,15,0.8666666666666667,right
+exp4_diff_cat_0042.png,42,diff_cat,boxes,hot air balloons,42,10,0.23809523809523808,left
+exp4_diff_cat_0043.png,43,diff_cat,books,cars,20,99,0.20202020202020202,right
+exp4_diff_cat_0045.png,45,diff_cat,eggs,potatoes,67,32,0.47761194029850745,left
+exp4_diff_cat_0046.png,46,diff_cat,chicken wings,penguins,24,8,0.3333333333333333,left
+exp4_diff_cat_0047.png,47,diff_cat,donuts tray,coffee beans,10,72,0.1388888888888889,right
+exp4_diff_cat_0048.png,48,diff_cat,cups,marbles,23,76,0.3026315789473684,right
+exp4_diff_cat_0049.png,49,diff_cat,chicken wings,bricks,15,66,0.22727272727272727,right
+exp4_diff_cat_0050.png,50,diff_cat,stamps,bread rolls,72,20,0.2777777777777778,left
+exp4_diff_cat_0051.png,51,diff_cat,pills,strawberries,111,30,0.2702702702702703,left
+exp4_diff_cat_0052.png,52,diff_cat,cars,kiwis,87,16,0.1839080459770115,left
+exp4_diff_cat_0053.png,53,diff_cat,green peas,cans,89,12,0.1348314606741573,left
+exp4_diff_cat_0054.png,54,diff_cat,bottle caps,cotton balls,28,15,0.5357142857142857,left
+exp4_diff_cat_0055.png,55,diff_cat,ants,tomatoes,14,32,0.4375,right
+exp4_diff_cat_0056.png,56,diff_cat,oranges,pearls,59,30,0.5084745762711864,left
+exp4_diff_cat_0057.png,57,diff_cat,nail polish,keyboard keys,66,63,0.9545454545454546,left
+exp4_diff_cat_0058.png,58,diff_cat,shoes,lipstick,10,151,0.06622516556291391,right
+exp4_diff_cat_0059.png,59,diff_cat,finger foods,biscuits,8,12,0.6666666666666666,right
+exp4_diff_cat_0060.png,60,diff_cat,biscuits,marbles,24,12,0.5,left
+exp4_diff_cat_0061.png,61,diff_cat,tree logs,stamps,166,38,0.2289156626506024,left
+exp4_diff_cat_0062.png,62,diff_cat,kiwis,cotton balls,33,52,0.6346153846153846,right
+exp4_diff_cat_0063.png,63,diff_cat,cotton balls,potatoes,12,40,0.3,right
+exp4_diff_cat_0064.png,64,diff_cat,chairs,biscuits,62,18,0.2903225806451613,left
+exp4_diff_cat_0065.png,65,diff_cat,beads,potatoes,43,31,0.7209302325581395,left
+exp4_diff_cat_0066.png,66,diff_cat,roof tiles,coins,159,76,0.4779874213836478,left
+exp4_diff_cat_0067.png,67,diff_cat,jade stones,sheep,13,128,0.1015625,right
+exp4_diff_cat_0068.png,68,diff_cat,stamps,candles,25,10,0.4,left
+exp4_diff_cat_0069.png,69,diff_cat,pearls,nuts,23,71,0.323943661971831,right
+exp4_diff_cat_0070.png,70,diff_cat,bowls,jade stones,75,18,0.24,left
+exp4_diff_cat_0071.png,71,diff_cat,donuts tray,cement bags,16,42,0.3809523809523809,right
+exp4_diff_cat_0073.png,73,diff_cat,green peas,cans,185,12,0.06486486486486487,left
+exp4_diff_cat_0074.png,74,diff_cat,cotton balls,nuts,30,31,0.967741935483871,right
+exp4_diff_cat_0075.png,75,diff_cat,strawberries,lipstick,34,12,0.35294117647058826,left
+exp4_diff_cat_0076.png,76,diff_cat,tomatoes,bottles,22,16,0.7272727272727273,left
+exp4_diff_cat_0077.png,77,diff_cat,windows,eggs,62,68,0.9117647058823529,right
+exp4_diff_cat_0078.png,78,diff_cat,stamps,polka dots,13,98,0.1326530612244898,right
+exp4_diff_cat_0079.png,79,diff_cat,marbles,stairs,25,18,0.72,left
+exp4_diff_cat_0080.png,80,diff_cat,penguins,sheep,12,44,0.2727272727272727,right
+exp4_diff_cat_0081.png,81,diff_cat,elephants,chicken wings,23,32,0.71875,right
+exp4_diff_cat_0082.png,82,diff_cat,bottles,pills,48,50,0.96,right
+exp4_diff_cat_0083.png,83,diff_cat,fishes,cement bags,30,20,0.6666666666666666,left
+exp4_diff_cat_0084.png,84,diff_cat,kidney beans,pearls,103,127,0.8110236220472441,right
+exp4_diff_cat_0085.png,85,diff_cat,balls,tree logs,11,19,0.5789473684210527,right
+exp4_diff_cat_0086.png,86,diff_cat,grapes,birds,53,24,0.4528301886792453,left
+exp4_diff_cat_0087.png,87,diff_cat,peaches,comic books,21,12,0.5714285714285714,left
+exp4_diff_cat_0088.png,88,diff_cat,macarons,pens,12,33,0.36363636363636365,right
+exp4_diff_cat_0089.png,89,diff_cat,peaches,pens,22,13,0.5909090909090909,left
+exp4_diff_cat_0090.png,90,diff_cat,sunglasses,cars,63,86,0.7325581395348837,right
+exp4_diff_cat_0091.png,91,diff_cat,caps,pencils,16,25,0.64,right
+exp4_diff_cat_0092.png,92,diff_cat,boxes,plates,81,18,0.2222222222222222,left
+exp4_diff_cat_0093.png,93,diff_cat,pills,roof tiles,193,125,0.6476683937823834,left
+exp4_diff_cat_0094.png,94,diff_cat,caps,eggs,129,46,0.35658914728682173,left
+exp4_diff_cat_0095.png,95,diff_cat,lipstick,peaches,69,39,0.5652173913043478,left
+exp4_diff_cat_0096.png,96,diff_cat,pearls,sunglasses,76,134,0.5671641791044776,right
+exp4_diff_cat_0097.png,97,diff_cat,plates,coins,14,58,0.2413793103448276,right
+exp4_diff_cat_0098.png,98,diff_cat,apples,marbles,11,44,0.25,right
+exp4_diff_cat_0099.png,99,diff_cat,comic books,horses,143,13,0.09090909090909091,left
+exp4_diff_cat_0100.png,100,diff_cat,chicken wings,books,27,15,0.5555555555555556,left
+exp4_diff_cat_0101.png,101,diff_cat,cups,polka dots,12,64,0.1875,right
+exp4_diff_cat_0102.png,102,diff_cat,cupcake tray,kidney beans,9,57,0.15789473684210525,right
+exp4_diff_cat_0103.png,103,diff_cat,keyboard keys,cars,87,153,0.5686274509803921,right
+exp4_diff_cat_0104.png,104,diff_cat,spoon,cars,13,104,0.125,right
+exp4_diff_cat_0105.png,105,diff_cat,candles,birds,36,10,0.2777777777777778,left
+exp4_diff_cat_0106.png,106,diff_cat,kiwis,fishes,38,89,0.42696629213483145,right
+exp4_diff_cat_0107.png,107,diff_cat,chairs,finger foods,107,13,0.12149532710280374,left
+exp4_diff_cat_0108.png,108,diff_cat,cupcakes,kiwis,12,8,0.6666666666666666,left
+exp4_diff_cat_0109.png,109,diff_cat,strawberries,hot air balloons,52,30,0.5769230769230769,left
+exp4_diff_cat_0110.png,110,diff_cat,books,candles,100,14,0.14,left
+exp4_diff_cat_0111.png,111,diff_cat,oranges,mini blinds,48,52,0.9230769230769231,right
+exp4_diff_cat_0112.png,112,diff_cat,eggs,cement bags,22,31,0.7096774193548387,right
+exp4_diff_cat_0113.png,113,diff_cat,candles,penguins,157,8,0.050955414012738856,left
+exp4_diff_cat_0114.png,114,diff_cat,coffee beans,donuts tray,72,8,0.1111111111111111,left
+exp4_diff_cat_0115.png,115,diff_cat,sunglasses,cups,36,16,0.4444444444444444,left
+exp4_diff_cat_0116.png,116,diff_cat,sheep,bricks,181,61,0.3370165745856354,left
+exp4_diff_cat_0117.png,117,diff_cat,bread rolls,lipstick,8,24,0.3333333333333333,right
+exp4_diff_cat_0118.png,118,diff_cat,strawberries,cotton balls,113,48,0.4247787610619469,left
+exp4_diff_cat_0119.png,119,diff_cat,cars,polka dots,48,74,0.6486486486486487,right
+exp4_diff_cat_0120.png,120,diff_cat,cans,bottles,16,73,0.2191780821917808,right
+exp4_diff_cat_0121.png,121,diff_cat,stairs,bottle caps,15,51,0.29411764705882354,right
+exp4_diff_cat_0122.png,122,diff_cat,jade stones,ants,40,19,0.475,left
+exp4_diff_cat_0123.png,123,diff_cat,oranges,cupcakes,68,23,0.3382352941176471,left
+exp4_diff_cat_0124.png,124,diff_cat,ants,nail polish,72,59,0.8194444444444444,left
+exp4_diff_cat_0125.png,125,diff_cat,kiwis,shoes,12,84,0.14285714285714285,right
+exp4_diff_cat_0126.png,126,diff_cat,cement bags,finger foods,82,13,0.15853658536585366,left
+exp4_diff_cat_0127.png,127,diff_cat,marbles,horses,11,65,0.16923076923076924,right
+exp4_diff_cat_0128.png,128,diff_cat,cans,tree logs,42,102,0.4117647058823529,right
+exp4_diff_cat_0129.png,129,diff_cat,kiwis,stamps,34,56,0.6071428571428571,right
+exp4_diff_cat_0130.png,130,diff_cat,roof tiles,potatoes,99,24,0.24242424242424243,left
+exp4_diff_cat_0131.png,131,diff_cat,chairs,biscuits,136,23,0.16911764705882354,left
+exp4_diff_cat_0132.png,132,diff_cat,beads,plates,106,22,0.20754716981132076,left
+exp4_diff_cat_0133.png,133,diff_cat,spoon,coins,10,35,0.2857142857142857,right
+exp4_diff_cat_0134.png,134,diff_cat,pearls,jade stones,10,31,0.3225806451612903,right
+exp4_diff_cat_0135.png,135,diff_cat,stamps,candles,20,26,0.7692307692307693,right
+exp4_diff_cat_0136.png,136,diff_cat,nuts,nail polish,21,25,0.84,right
+exp4_diff_cat_0137.png,137,diff_cat,pencils,bowls,40,21,0.525,left
+exp4_diff_cat_0138.png,138,diff_cat,donuts tray,stamps,10,27,0.37037037037037035,right
+exp4_diff_cat_0139.png,139,diff_cat,oranges,tomatoes,14,149,0.09395973154362416,right
+exp4_diff_cat_0140.png,140,diff_cat,marbles,green peas,40,113,0.35398230088495575,right
+exp4_diff_cat_0141.png,141,diff_cat,cotton balls,mini blinds,14,30,0.4666666666666667,right
+exp4_diff_cat_0142.png,142,diff_cat,plates,lipstick,11,28,0.39285714285714285,right
+exp4_diff_cat_0143.png,143,diff_cat,cement bags,bottles,28,115,0.24347826086956523,right
+exp4_diff_cat_0144.png,144,diff_cat,windows,mini blinds,45,10,0.2222222222222222,left
+exp4_diff_cat_0145.png,145,diff_cat,stamps,nail polish,43,146,0.2945205479452055,right
+exp4_diff_cat_0146.png,146,diff_cat,stairs,kidney beans,13,9,0.6923076923076923,left
+exp4_diff_cat_0147.png,147,diff_cat,cement bags,sheep,38,22,0.5789473684210527,left
+exp4_diff_cat_0148.png,148,diff_cat,jade stones,elephants,10,54,0.18518518518518517,right
+exp4_diff_cat_0149.png,149,diff_cat,ants,pills,13,18,0.7222222222222222,right
+exp4_diff_cat_0150.png,150,diff_cat,caps,cement bags,26,41,0.6341463414634146,right
+exp4_diff_cat_0151.png,151,diff_cat,kidney beans,plates,70,15,0.21428571428571427,left
+exp4_diff_cat_0152.png,152,diff_cat,balls,peaches,22,23,0.9565217391304348,right
+exp4_diff_cat_0153.png,153,diff_cat,pills,grapes,33,41,0.8048780487804879,right
+exp4_diff_cat_0154.png,154,diff_cat,kiwis,comic books,22,25,0.88,right
+exp4_diff_cat_0155.png,155,diff_cat,macarons,birds,10,71,0.14084507042253522,right
+exp4_diff_cat_0156.png,156,diff_cat,pens,cupcake tray,87,35,0.40229885057471265,left
+exp4_diff_cat_0157.png,157,diff_cat,sunglasses,pencils,73,36,0.4931506849315068,left
+exp4_diff_cat_0158.png,158,diff_cat,pencils,potatoes,72,8,0.1111111111111111,left
+exp4_diff_cat_0159.png,159,diff_cat,jade stones,boxes,15,31,0.4838709677419355,right
+exp4_diff_cat_0160.png,160,diff_cat,cupcakes,roof tiles,12,58,0.20689655172413793,right
+exp4_diff_cat_0161.png,161,diff_cat,lipstick,caps,16,34,0.47058823529411764,right
+exp4_diff_cat_0162.png,162,diff_cat,spoon,peaches,27,30,0.9,right
+exp4_diff_cat_0163.png,163,diff_cat,pills,pearls,30,38,0.7894736842105263,right
+exp4_diff_cat_0164.png,164,diff_cat,kiwis,plates,12,57,0.21052631578947367,right
+exp4_diff_cat_0165.png,165,diff_cat,strawberries,apples,27,140,0.19285714285714287,right
+exp4_diff_cat_0166.png,166,diff_cat,horses,donuts tray,14,16,0.875,right
+exp4_diff_cat_0167.png,167,diff_cat,caps,chicken wings,108,12,0.1111111111111111,left
+exp4_diff_cat_0168.png,168,diff_cat,polka dots,eggs,72,10,0.1388888888888889,left
+exp4_diff_cat_0169.png,169,diff_cat,cans,cupcake tray,86,12,0.13953488372093023,left
+exp4_diff_cat_0170.png,170,diff_cat,nuts,keyboard keys,31,104,0.2980769230769231,right
+exp4_diff_cat_0171.png,171,diff_cat,spoon,birds,8,16,0.5,right
+exp4_diff_cat_0172.png,172,diff_cat,birds,spoon,92,16,0.17391304347826086,left
+exp4_diff_cat_0173.png,173,diff_cat,fishes,ants,26,28,0.9285714285714286,right
+exp4_diff_cat_0174.png,174,diff_cat,chairs,finger foods,26,19,0.7307692307692307,left
+exp4_diff_cat_0175.png,175,diff_cat,cupcakes,beads,17,103,0.1650485436893204,right
+exp4_diff_cat_0176.png,176,diff_cat,windows,hot air balloons,36,63,0.5714285714285714,right
+exp4_diff_cat_0177.png,177,diff_cat,books,mini blinds,41,27,0.6585365853658537,left
+exp4_diff_cat_0178.png,178,diff_cat,mini blinds,beads,9,44,0.20454545454545456,right
+exp4_diff_cat_0179.png,179,diff_cat,eggs,sheep,39,31,0.7948717948717948,left
+exp4_diff_cat_0180.png,180,diff_cat,caps,penguins,62,125,0.496,right
+exp4_diff_cat_0181.png,181,diff_cat,apples,coffee beans,21,35,0.6,right
+exp4_diff_cat_0182.png,182,diff_cat,mini blinds,cups,10,30,0.3333333333333333,right
+exp4_diff_cat_0183.png,183,diff_cat,bricks,apples,144,20,0.1388888888888889,left
+exp4_diff_cat_0184.png,184,diff_cat,roof tiles,bread rolls,16,10,0.625,left
+exp4_diff_cat_0185.png,185,diff_cat,marbles,strawberries,23,37,0.6216216216216216,right
+exp4_diff_cat_0186.png,186,diff_cat,windows,cars,40,155,0.25806451612903225,right
+exp4_diff_cat_0187.png,187,diff_cat,plates,cans,16,20,0.8,right
+exp4_diff_cat_0188.png,188,diff_cat,bottle caps,cupcake tray,111,24,0.21621621621621623,left
+exp4_diff_cat_0189.png,189,diff_cat,sunglasses,ants,27,72,0.375,right
+exp4_diff_cat_0190.png,190,diff_cat,oranges,cupcakes,34,12,0.35294117647058826,left
+exp4_diff_cat_0192.png,192,diff_cat,bricks,shoes,103,52,0.5048543689320388,left
+exp4_diff_cat_0194.png,194,diff_cat,marbles,coins,54,92,0.5869565217391305,right
+exp4_diff_cat_0195.png,195,diff_cat,tree logs,cupcake tray,29,16,0.5517241379310345,left
+exp4_diff_cat_0196.png,196,diff_cat,kiwis,bread rolls,51,8,0.1568627450980392,left
+exp4_diff_cat_0197.png,197,diff_cat,potatoes,windows,72,56,0.7777777777777778,left
+exp4_diff_cat_0198.png,198,diff_cat,biscuits,peaches,12,10,0.8333333333333334,left
+exp4_diff_cat_0199.png,199,diff_cat,cups,beads,69,110,0.6272727272727273,right
+exp4_diff_cat_0200.png,200,diff_cat,coins,pills,93,22,0.23655913978494625,left
+exp4_diff_cat_0201.png,201,diff_cat,green peas,jade stones,99,25,0.25252525252525254,left
+exp4_diff_cat_0202.png,202,diff_cat,coins,candles,63,9,0.14285714285714285,left
+exp4_diff_cat_0203.png,203,diff_cat,nuts,shoes,42,18,0.42857142857142855,left
+exp4_diff_cat_0204.png,204,diff_cat,pearls,bowls,25,59,0.423728813559322,right
+exp4_diff_cat_0205.png,205,diff_cat,donuts tray,tomatoes,10,21,0.4761904761904761,right
+exp4_diff_cat_0206.png,206,diff_cat,candles,tomatoes,13,47,0.2765957446808511,right
+exp4_diff_cat_0207.png,207,diff_cat,green peas,plates,84,23,0.27380952380952384,left
+exp4_diff_cat_0208.png,208,diff_cat,cotton balls,bottles,15,39,0.38461538461538464,right
+exp4_diff_cat_0209.png,209,diff_cat,chicken wings,lipstick,20,62,0.3225806451612903,right
+exp4_diff_cat_0210.png,210,diff_cat,cars,bottles,25,145,0.1724137931034483,right
+exp4_diff_cat_0211.png,211,diff_cat,windows,comic books,45,21,0.4666666666666667,left
+exp4_diff_cat_0212.png,212,diff_cat,stamps,biscuits,20,45,0.4444444444444444,right
+exp4_diff_cat_0213.png,213,diff_cat,stairs,lipstick,11,12,0.9166666666666666,right
+exp4_diff_cat_0214.png,214,diff_cat,bread rolls,sheep,12,67,0.1791044776119403,right
+exp4_diff_cat_0215.png,215,diff_cat,elephants,biscuits,22,10,0.45454545454545453,left
+exp4_diff_cat_0216.png,216,diff_cat,caps,pills,14,9,0.6428571428571429,left
+exp4_diff_cat_0217.png,217,diff_cat,cement bags,grapes,167,30,0.17964071856287425,left
+exp4_diff_cat_0218.png,218,diff_cat,kidney beans,stamps,189,25,0.13227513227513227,left
+exp4_diff_cat_0219.png,219,diff_cat,balls,polka dots,9,36,0.25,right
+exp4_diff_cat_0220.png,220,diff_cat,potatoes,grapes,34,65,0.5230769230769231,right
+exp4_diff_cat_0221.png,221,diff_cat,comic books,hot air balloons,45,12,0.26666666666666666,left
+exp4_diff_cat_0222.png,222,diff_cat,macarons,bread rolls,41,12,0.2926829268292683,left
+exp4_diff_cat_0223.png,223,diff_cat,pens,polka dots,41,43,0.9534883720930233,right
+exp4_diff_cat_0224.png,224,diff_cat,sunglasses,mini blinds,81,9,0.1111111111111111,left
+exp4_diff_cat_0225.png,225,diff_cat,apples,pencils,15,12,0.8,left
+exp4_diff_cat_0226.png,226,diff_cat,boxes,lipstick,47,12,0.2553191489361702,left
+exp4_diff_cat_0227.png,227,diff_cat,ants,roof tiles,24,25,0.96,right
+exp4_diff_cat_0228.png,228,diff_cat,peaches,caps,9,14,0.6428571428571429,right
+exp4_diff_cat_0229.png,229,diff_cat,cups,peaches,22,85,0.25882352941176473,right
+exp4_diff_cat_0230.png,230,diff_cat,grapes,pearls,25,19,0.76,left
+exp4_diff_cat_0231.png,231,diff_cat,plates,cans,15,10,0.6666666666666666,left
+exp4_diff_cat_0232.png,232,diff_cat,apples,lipstick,34,12,0.35294117647058826,left
+exp4_diff_cat_0233.png,233,diff_cat,bottles,horses,39,59,0.6610169491525424,right
+exp4_diff_cat_0234.png,234,diff_cat,chicken wings,green peas,12,121,0.0991735537190082,right
+exp4_diff_cat_0235.png,235,diff_cat,donuts tray,polka dots,12,41,0.2926829268292683,right
+exp4_diff_cat_0236.png,236,diff_cat,stamps,cupcake tray,61,12,0.19672131147540983,left
+exp4_diff_cat_0237.png,237,diff_cat,bread rolls,keyboard keys,12,48,0.25,right
+exp4_diff_cat_0238.png,238,diff_cat,sheep,spoon,51,8,0.1568627450980392,left
+exp4_diff_cat_0239.png,239,diff_cat,birds,finger foods,38,8,0.21052631578947367,left
+exp4_diff_cat_0240.png,240,diff_cat,comic books,fishes,25,17,0.68,left
+exp4_diff_cat_0241.png,241,diff_cat,polka dots,chairs,25,124,0.2016129032258064,right
+exp4_diff_cat_0242.png,242,diff_cat,finger foods,cupcakes,13,8,0.6153846153846154,left
+exp4_diff_cat_0243.png,243,diff_cat,hot air balloons,bottles,8,42,0.19047619047619047,right
+exp4_diff_cat_0244.png,244,diff_cat,books,hot air balloons,16,9,0.5625,left
+exp4_diff_cat_0245.png,245,diff_cat,mini blinds,cups,38,21,0.5526315789473685,left
+exp4_diff_cat_0246.png,246,diff_cat,grapes,eggs,32,26,0.8125,left
+exp4_diff_cat_0247.png,247,diff_cat,penguins,candles,10,9,0.9,left
+exp4_diff_cat_0248.png,248,diff_cat,pills,coffee beans,70,100,0.7,right
+exp4_diff_cat_0249.png,249,diff_cat,cups,strawberries,17,12,0.7058823529411765,left
+exp4_diff_cat_0250.png,250,diff_cat,bricks,pearls,21,195,0.1076923076923077,right
+exp4_diff_cat_0251.png,251,diff_cat,bowls,bread rolls,14,16,0.875,right
+exp4_diff_cat_0252.png,252,diff_cat,strawberries,nuts,26,110,0.23636363636363636,right
+exp4_diff_cat_0253.png,253,diff_cat,peaches,cars,39,24,0.6153846153846154,left
+exp4_diff_cat_0254.png,254,diff_cat,bowls,cans,30,19,0.6333333333333333,left
+exp4_diff_cat_0255.png,255,diff_cat,ants,bottle caps,60,9,0.15,left
+exp4_diff_cat_0256.png,256,diff_cat,sheep,ants,190,8,0.042105263157894736,left
+exp4_diff_cat_0257.png,257,diff_cat,oranges,nail polish,50,87,0.5747126436781609,right
+exp4_diff_cat_0258.png,258,diff_cat,spoon,nail polish,12,98,0.12244897959183673,right
+exp4_diff_cat_0259.png,259,diff_cat,ants,shoes,40,8,0.2,left
+exp4_diff_cat_0260.png,260,diff_cat,finger foods,hot air balloons,19,10,0.5263157894736842,left
+exp4_diff_cat_0261.png,261,diff_cat,marbles,tomatoes,118,51,0.4322033898305085,left
+exp4_diff_cat_0262.png,262,diff_cat,tree logs,chairs,49,9,0.1836734693877551,left
+exp4_diff_cat_0263.png,263,diff_cat,kiwis,plates,8,27,0.2962962962962963,right
+exp4_diff_cat_0264.png,264,diff_cat,potatoes,boxes,16,17,0.9411764705882353,right
+exp4_diff_cat_0265.png,265,diff_cat,kidney beans,biscuits,52,14,0.2692307692307692,left
+exp4_diff_cat_0266.png,266,diff_cat,beads,polka dots,68,100,0.68,right
+exp4_diff_cat_0267.png,267,diff_cat,coins,tree logs,80,109,0.7339449541284404,right
+exp4_diff_cat_0268.png,268,diff_cat,comic books,jade stones,47,27,0.574468085106383,left
+exp4_diff_cat_0269.png,269,diff_cat,candles,chicken wings,20,16,0.8,left
+exp4_diff_cat_0270.png,270,diff_cat,cotton balls,nuts,20,96,0.20833333333333334,right
+exp4_diff_cat_0271.png,271,diff_cat,bowls,keyboard keys,27,103,0.2621359223300971,right
+exp4_diff_cat_0272.png,272,diff_cat,donuts tray,penguins,12,26,0.4615384615384615,right
+exp4_diff_cat_0273.png,273,diff_cat,tomatoes,oranges,91,54,0.5934065934065934,left
+exp4_diff_cat_0274.png,274,diff_cat,sunglasses,green peas,31,11,0.3548387096774194,left
+exp4_diff_cat_0275.png,275,diff_cat,cotton balls,cupcake tray,8,9,0.8888888888888888,right
+exp4_diff_cat_0276.png,276,diff_cat,grapes,lipstick,29,8,0.27586206896551724,left
+exp4_diff_cat_0277.png,277,diff_cat,bottles,elephants,58,11,0.1896551724137931,left
+exp4_diff_cat_0278.png,278,diff_cat,windows,balls,14,15,0.9333333333333333,right
+exp4_diff_cat_0279.png,279,diff_cat,kidney beans,stamps,106,14,0.1320754716981132,left
+exp4_diff_cat_0280.png,280,diff_cat,chairs,stairs,25,14,0.56,left
+exp4_diff_cat_0281.png,281,diff_cat,sheep,coins,109,35,0.3211009174311927,left
+exp4_diff_cat_0282.png,282,diff_cat,elephants,grapes,11,144,0.0763888888888889,right
+exp4_diff_cat_0283.png,283,diff_cat,pills,ants,28,10,0.35714285714285715,left
+exp4_diff_cat_0284.png,284,diff_cat,cement bags,windows,27,108,0.25,right
+exp4_diff_cat_0285.png,285,diff_cat,tree logs,kidney beans,18,43,0.4186046511627907,right
+exp4_diff_cat_0286.png,286,diff_cat,balls,bowls,16,20,0.8,right
+exp4_diff_cat_0287.png,287,diff_cat,grapes,apples,61,73,0.8356164383561644,right
+exp4_diff_cat_0288.png,288,diff_cat,comic books,penguins,45,24,0.5333333333333333,left
+exp4_diff_cat_0289.png,289,diff_cat,macarons,comic books,16,40,0.4,right
+exp4_diff_cat_0290.png,290,diff_cat,shoes,pens,16,24,0.6666666666666666,right
+exp4_diff_cat_0291.png,291,diff_cat,sunglasses,shoes,45,18,0.4,left
+exp4_diff_cat_0292.png,292,diff_cat,pencils,comic books,61,33,0.5409836065573771,left
+exp4_diff_cat_0293.png,293,diff_cat,tree logs,boxes,93,68,0.7311827956989247,left
+exp4_diff_cat_0294.png,294,diff_cat,windows,roof tiles,12,27,0.4444444444444444,right
+exp4_diff_cat_0295.png,295,diff_cat,caps,windows,51,87,0.5862068965517241,right
+exp4_diff_cat_0296.png,296,diff_cat,peaches,biscuits,41,11,0.2682926829268293,left
+exp4_diff_cat_0297.png,297,diff_cat,lipstick,pearls,22,138,0.15942028985507245,right
+exp4_diff_cat_0298.png,298,diff_cat,plates,macarons,25,18,0.72,left
+exp4_diff_cat_0299.png,299,diff_cat,apples,grapes,111,122,0.9098360655737705,right
+exp4_diff_cat_0300.png,300,diff_cat,horses,ants,14,67,0.208955223880597,right

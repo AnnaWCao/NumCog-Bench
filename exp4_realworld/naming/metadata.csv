@@ -1,0 +1,865 @@
+image,category,count,original_image_name
+rw_same_cat/pair0256_right.jpg,ants,8,746.jpg
+rw_diff_cat/pair0283_right.jpg,ants,10,740.jpg
+rw_diff_cat/pair0149_left.jpg,ants,13,741.jpg
+rw_same_cat/pair0055_right.jpg,ants,13,742.jpg
+rw_same_cat/pair0055_left.jpg,ants,14,735.jpg
+rw_diff_cat/pair0122_right.jpg,ants,19,7649.jpg
+rw_same_cat/pair0122_right.jpg,ants,24,7568.jpg
+rw_diff_cat/pair0173_right.jpg,ants,28,6787.jpg
+rw_diff_cat/pair0259_left.jpg,ants,40,7435.jpg
+rw_diff_cat/pair0008_left.jpg,ants,44,736.jpg
+rw_diff_cat/pair0255_left.jpg,ants,60,745.jpg
+rw_same_cat/pair0189_left.jpg,ants,67,7544.jpg
+rw_diff_cat/pair0124_left.jpg,ants,72,2137.jpg
+rw_same_cat/pair0189_right.jpg,ants,72,7655.jpg
+rw_diff_cat/pair0098_left.jpg,apples,11,2141.jpg
+rw_same_cat/pair0098_right.jpg,apples,12,6245.jpg
+rw_diff_cat/pair0225_left.jpg,apples,15,6247.jpg
+rw_diff_cat/pair0183_right.jpg,apples,20,2171.jpg
+rw_diff_cat/pair0181_left.jpg,apples,21,715.jpg
+rw_diff_cat/pair0031_right.jpg,apples,22,6849.jpg
+rw_diff_cat/pair0034_left.jpg,apples,27,7614.jpg
+rw_same_cat/pair0232_left.jpg,apples,34,2162.jpg
+rw_same_cat/pair0232_right.jpg,apples,34,6254.jpg
+rw_same_cat/pair0165_right.jpg,apples,60,701.jpg
+rw_diff_cat/pair0287_right.jpg,apples,73,6242.jpg
+rw_same_cat/pair0299_left.jpg,apples,75,2258.jpg
+rw_diff_cat/pair0299_left.jpg,apples,111,6249.jpg
+rw_same_cat/pair0165_left.jpg,apples,140,6809.jpg
+rw_same_cat/pair0031_right.jpg,apples,147,2170.jpg
+rw_same_cat/pair0219_left.jpg,balls,8,4771.jpg
+rw_same_cat/pair0219_right.jpg,balls,9,202.jpg
+rw_diff_cat/pair0018_left.jpg,balls,9,4780.jpg
+rw_same_cat/pair0018_left.jpg,balls,10,204.jpg
+rw_same_cat/pair0085_right.jpg,balls,11,207.jpg
+rw_same_cat/pair0286_right.jpg,balls,15,201.jpg
+rw_diff_cat/pair0278_right.jpg,balls,15,4791.jpg
+rw_diff_cat/pair0286_left.jpg,balls,16,4772.jpg
+rw_diff_cat/pair0152_left.jpg,balls,22,205.jpg
+rw_same_cat/pair0152_left.jpg,balls,22,4788.jpg
+rw_same_cat/pair0085_left.jpg,balls,51,4769.jpg
+rw_same_cat/pair0132_left.jpg,beads,14,6507.jpg
+rw_same_cat/pair0199_left.jpg,beads,29,6496.jpg
+rw_diff_cat/pair0065_left.jpg,beads,43,3459.jpg
+rw_diff_cat/pair0178_right.jpg,beads,44,6392.jpg
+rw_diff_cat/pair0006_right.jpg,beads,48,5054.jpg
+rw_same_cat/pair0065_left.jpg,beads,57,3240.jpg
+rw_diff_cat/pair0266_left.jpg,beads,68,5338.jpg
+rw_diff_cat/pair0029_right.jpg,beads,92,3462.jpg
+rw_diff_cat/pair0175_right.jpg,beads,103,6540.jpg
+rw_diff_cat/pair0132_left.jpg,beads,106,6521.jpg
+rw_same_cat/pair0266_left.jpg,beads,108,6442.jpg
+rw_diff_cat/pair0199_right.jpg,beads,110,4024.jpg
+rw_same_cat/pair0239_right.jpg,birds,9,543.jpg
+rw_diff_cat/pair0105_right.jpg,birds,10,4343.jpg
+rw_same_cat/pair0105_right.jpg,birds,10,516.jpg
+rw_same_cat/pair0038_right.jpg,birds,10,564.jpg
+rw_same_cat/pair0172_left.jpg,birds,13,449.jpg
+rw_diff_cat/pair0017_right.jpg,birds,15,756.jpg
+rw_diff_cat/pair0171_right.jpg,birds,16,4539.jpg
+rw_same_cat/pair0038_left.jpg,birds,17,526.jpg
+rw_diff_cat/pair0086_right.jpg,birds,24,4663.jpg
+rw_same_cat/pair0239_left.jpg,birds,38,4576.jpg
+rw_diff_cat/pair0155_right.jpg,birds,71,651.jpg
+rw_same_cat/pair0172_right.jpg,birds,92,5965.jpg
+rw_diff_cat/pair0215_right.jpg,biscuits,10,4204.jpg
+rw_same_cat/pair0131_right.jpg,biscuits,10,4220.jpg
+rw_diff_cat/pair0296_right.jpg,biscuits,11,4193.jpg
+rw_diff_cat/pair0014_right.jpg,biscuits,12,4201.jpg
+rw_same_cat/pair0064_left.jpg,biscuits,12,5423.jpg
+rw_diff_cat/pair0059_right.jpg,biscuits,12,5425.jpg
+rw_same_cat/pair0198_right.jpg,biscuits,12,5442.jpg
+rw_same_cat/pair0265_right.jpg,biscuits,14,6345.jpg
+rw_same_cat/pair0064_right.jpg,biscuits,18,4219.jpg
+rw_same_cat/pair0198_left.jpg,biscuits,18,6343.jpg
+rw_diff_cat/pair0131_right.jpg,biscuits,23,4210.jpg
+rw_diff_cat/pair0060_left.jpg,biscuits,24,6342.jpg
+rw_diff_cat/pair0212_right.jpg,biscuits,45,5438.jpg
+rw_same_cat/pair0265_left.jpg,biscuits,132,7505.jpg
+rw_diff_cat/pair0100_right.jpg,books,15,776.jpg
+rw_same_cat/pair0244_right.jpg,books,16,7619.jpg
+rw_same_cat/pair0043_right.jpg,books,17,7604.jpg
+rw_same_cat/pair0043_left.jpg,books,20,6875.jpg
+rw_diff_cat/pair0027_right.jpg,books,20,775.jpg
+rw_same_cat/pair0177_left.jpg,books,35,837.jpg
+rw_same_cat/pair0177_right.jpg,books,41,852.jpg
+rw_same_cat/pair0110_left.jpg,books,84,864.jpg
+rw_diff_cat/pair0110_left.jpg,books,100,7002.jpg
+rw_same_cat/pair0244_left.jpg,books,162,857.jpg
+rw_same_cat/pair0255_right.jpg,bottle caps,9,824.jpg
+rw_same_cat/pair0121_left.jpg,bottle caps,12,1900.jpg
+rw_diff_cat/pair0054_left.jpg,bottle caps,28,1910.jpg
+rw_same_cat/pair0188_left.jpg,bottle caps,48,1924.jpg
+rw_diff_cat/pair0121_right.jpg,bottle caps,51,812.jpg
+rw_same_cat/pair0255_left.jpg,bottle caps,68,1927.jpg
+rw_diff_cat/pair0188_left.jpg,bottle caps,111,1961.jpg
+rw_same_cat/pair0054_right.jpg,bottle caps,119,1911.jpg
+rw_diff_cat/pair0028_left.jpg,bottles,8,2558.jpg
+rw_diff_cat/pair0076_right.jpg,bottles,16,6827.jpg
+rw_same_cat/pair0210_left.jpg,bottles,25,6771.jpg
+rw_diff_cat/pair0039_right.jpg,bottles,34,2605.jpg
+rw_diff_cat/pair0233_left.jpg,bottles,39,2565.jpg
+rw_diff_cat/pair0208_right.jpg,bottles,39,7446.jpg
+rw_diff_cat/pair0243_right.jpg,bottles,42,7086.jpg
+rw_diff_cat/pair0082_left.jpg,bottles,48,7438.jpg
+rw_same_cat/pair0143_right.jpg,bottles,58,2602.jpg
+rw_same_cat/pair0277_right.jpg,bottles,58,7562.jpg
+rw_diff_cat/pair0009_left.jpg,bottles,61,6716.jpg
+rw_diff_cat/pair0120_right.jpg,bottles,73,2550.jpg
+rw_same_cat/pair0277_left.jpg,bottles,75,2580.jpg
+rw_diff_cat/pair0143_right.jpg,bottles,115,2572.jpg
+rw_same_cat/pair0009_right.jpg,bottles,116,6967.jpg
+rw_same_cat/pair0076_left.jpg,bottles,122,6777.jpg
+rw_diff_cat/pair0210_right.jpg,bottles,145,2601.jpg
+rw_same_cat/pair0003_right.jpg,bowls,13,7404.jpg
+rw_same_cat/pair0271_left.jpg,bowls,13,7584.jpg
+rw_diff_cat/pair0251_left.jpg,bowls,14,2673.jpg
+rw_diff_cat/pair0286_right.jpg,bowls,20,2664.jpg
+rw_same_cat/pair0137_right.jpg,bowls,21,2660.jpg
+rw_same_cat/pair0070_right.jpg,bowls,24,7231.jpg
+rw_same_cat/pair0271_right.jpg,bowls,27,2667.jpg
+rw_diff_cat/pair0254_left.jpg,bowls,30,683.jpg
+rw_same_cat/pair0003_left.jpg,bowls,34,7516.jpg
+rw_same_cat/pair0137_left.jpg,bowls,49,2679.jpg
+rw_same_cat/pair0204_left.jpg,bowls,59,6724.jpg
+rw_diff_cat/pair0070_left.jpg,bowls,75,2663.jpg
+rw_same_cat/pair0204_right.jpg,bowls,92,2653.jpg
+rw_same_cat/pair0159_right.jpg,boxes,17,7502.jpg
+rw_same_cat/pair0293_right.jpg,boxes,24,679.jpg
+rw_same_cat/pair0025_left.jpg,boxes,24,7041.jpg
+rw_same_cat/pair0226_right.jpg,boxes,30,6891.jpg
+rw_same_cat/pair0159_left.jpg,boxes,31,7354.jpg
+rw_diff_cat/pair0042_left.jpg,boxes,42,6821.jpg
+rw_diff_cat/pair0226_left.jpg,boxes,47,7444.jpg
+rw_diff_cat/pair0036_left.jpg,boxes,66,7450.jpg
+rw_diff_cat/pair0293_right.jpg,boxes,68,7377.jpg
+rw_diff_cat/pair0092_left.jpg,boxes,81,7632.jpg
+rw_same_cat/pair0092_left.jpg,boxes,108,6773.jpg
+rw_same_cat/pair0025_right.jpg,boxes,123,7199.jpg
+rw_same_cat/pair0050_left.jpg,bread rolls,8,3174.jpg
+rw_same_cat/pair0117_right.jpg,bread rolls,8,3360.jpg
+rw_diff_cat/pair0196_right.jpg,bread rolls,8,3394.jpg
+rw_same_cat/pair0184_left.jpg,bread rolls,10,5728.jpg
+rw_same_cat/pair0117_left.jpg,bread rolls,12,3178.jpg
+rw_same_cat/pair0184_right.jpg,bread rolls,12,3180.jpg
+rw_diff_cat/pair0214_left.jpg,bread rolls,12,5038.jpg
+rw_diff_cat/pair0005_left.jpg,bread rolls,12,5973.jpg
+rw_diff_cat/pair0222_right.jpg,bread rolls,12,5980.jpg
+rw_diff_cat/pair0237_left.jpg,bread rolls,12,5981.jpg
+rw_same_cat/pair0251_right.jpg,bread rolls,16,3172.jpg
+rw_diff_cat/pair0251_right.jpg,bread rolls,16,5983.jpg
+rw_diff_cat/pair0044_left.jpg,bread rolls,20,3085.jpg
+rw_diff_cat/pair0050_right.jpg,bread rolls,20,3171.jpg
+rw_diff_cat/pair0250_left.jpg,bricks,21,2335.jpg
+rw_diff_cat/pair0116_right.jpg,bricks,61,803.jpg
+rw_diff_cat/pair0049_right.jpg,bricks,66,7168.jpg
+rw_diff_cat/pair0192_left.jpg,bricks,103,2322.jpg
+rw_same_cat/pair0183_right.jpg,bricks,143,7272.jpg
+rw_same_cat/pair0183_left.jpg,bricks,144,2330.jpg
+rw_same_cat/pair0116_left.jpg,bricks,149,2367.jpg
+rw_same_cat/pair0049_left.jpg,bricks,175,2353.jpg
+rw_same_cat/pair0250_left.jpg,bricks,199,801.jpg
+rw_same_cat/pair0202_right.jpg,candles,8,3724.jpg
+rw_same_cat/pair0001_right.jpg,candles,9,3717.jpg
+rw_diff_cat/pair0202_right.jpg,candles,9,5314.jpg
+rw_diff_cat/pair0247_right.jpg,candles,9,5318.jpg
+rw_same_cat/pair0068_left.jpg,candles,10,3201.jpg
+rw_same_cat/pair0001_left.jpg,candles,10,5166.jpg
+rw_same_cat/pair0135_right.jpg,candles,12,3202.jpg
+rw_diff_cat/pair0206_left.jpg,candles,13,3716.jpg
+rw_diff_cat/pair0110_right.jpg,candles,14,5169.jpg
+rw_diff_cat/pair0269_left.jpg,candles,20,3197.jpg
+rw_same_cat/pair0068_right.jpg,candles,24,3974.jpg
+rw_same_cat/pair0135_left.jpg,candles,26,5620.jpg
+rw_diff_cat/pair0105_left.jpg,candles,36,3977.jpg
+rw_same_cat/pair0269_left.jpg,candles,47,5323.jpg
+rw_diff_cat/pair0113_left.jpg,candles,157,5322.jpg
+rw_diff_cat/pair0231_right.jpg,cans,10,2789.jpg
+rw_diff_cat/pair0073_right.jpg,cans,12,2786.jpg
+rw_diff_cat/pair0053_right.jpg,cans,12,2795.jpg
+rw_same_cat/pair0187_left.jpg,cans,13,2800.jpg
+rw_same_cat/pair0120_left.jpg,cans,16,2776.jpg
+rw_same_cat/pair0254_left.jpg,cans,19,2796.jpg
+rw_diff_cat/pair0187_right.jpg,cans,20,2782.jpg
+rw_diff_cat/pair0003_left.jpg,cans,23,2791.jpg
+rw_same_cat/pair0053_right.jpg,cans,42,6000.jpg
+rw_same_cat/pair0254_right.jpg,cans,46,6903.jpg
+rw_diff_cat/pair0169_left.jpg,cans,86,2797.jpg
+rw_same_cat/pair0120_right.jpg,cans,108,2778.jpg
+rw_diff_cat/pair0228_right.jpg,caps,14,2894.jpg
+rw_diff_cat/pair0216_left.jpg,caps,14,7254.jpg
+rw_diff_cat/pair0091_left.jpg,caps,16,7355.jpg
+rw_same_cat/pair0161_right.jpg,caps,20,2898.jpg
+rw_diff_cat/pair0150_left.jpg,caps,26,7227.jpg
+rw_same_cat/pair0094_right.jpg,caps,33,7572.jpg
+rw_same_cat/pair0295_right.jpg,caps,34,7166.jpg
+rw_diff_cat/pair0161_right.jpg,caps,34,7467.jpg
+rw_same_cat/pair0295_left.jpg,caps,51,7445.jpg
+rw_diff_cat/pair0180_left.jpg,caps,62,6793.jpg
+rw_same_cat/pair0228_right.jpg,caps,62,7183.jpg
+rw_diff_cat/pair0167_left.jpg,caps,108,7332.jpg
+rw_same_cat/pair0027_left.jpg,caps,109,7292.jpg
+rw_diff_cat/pair0094_left.jpg,caps,129,7287.jpg
+rw_same_cat/pair0027_right.jpg,caps,193,7111.jpg
+rw_same_cat/pair0253_left.jpg,cars,14,6137.jpg
+rw_diff_cat/pair0253_right.jpg,cars,24,7515.jpg
+rw_diff_cat/pair0210_left.jpg,cars,25,6806.jpg
+rw_same_cat/pair0119_left.jpg,cars,31,6126.jpg
+rw_same_cat/pair0052_right.jpg,cars,34,6863.jpg
+rw_same_cat/pair0186_left.jpg,cars,40,6902.jpg
+rw_diff_cat/pair0119_left.jpg,cars,48,7103.jpg
+rw_diff_cat/pair0090_right.jpg,cars,86,7578.jpg
+rw_diff_cat/pair0052_left.jpg,cars,87,7422.jpg
+rw_diff_cat/pair0043_right.jpg,cars,99,7606.jpg
+rw_diff_cat/pair0104_right.jpg,cars,104,6958.jpg
+rw_diff_cat/pair0103_right.jpg,cars,153,6900.jpg
+rw_diff_cat/pair0186_right.jpg,cars,155,6131.jpg
+rw_same_cat/pair0083_right.jpg,cement bags,20,2621.jpg
+rw_diff_cat/pair0284_left.jpg,cement bags,27,2635.jpg
+rw_diff_cat/pair0143_left.jpg,cement bags,28,2650.jpg
+rw_same_cat/pair0016_right.jpg,cement bags,30,7451.jpg
+rw_diff_cat/pair0112_right.jpg,cement bags,31,6895.jpg
+rw_diff_cat/pair0147_left.jpg,cement bags,38,2647.jpg
+rw_same_cat/pair0150_right.jpg,cement bags,41,2646.jpg
+rw_same_cat/pair0217_left.jpg,cement bags,42,2642.jpg
+rw_diff_cat/pair0071_right.jpg,cement bags,42,7099.jpg
+rw_same_cat/pair0083_left.jpg,cement bags,46,2624.jpg
+rw_same_cat/pair0284_right.jpg,cement bags,56,2644.jpg
+rw_diff_cat/pair0126_left.jpg,cement bags,82,7014.jpg
+rw_diff_cat/pair0016_right.jpg,cement bags,91,2648.jpg
+rw_same_cat/pair0217_right.jpg,cement bags,167,2641.jpg
+rw_diff_cat/pair0262_right.jpg,chairs,9,2834.jpg
+rw_same_cat/pair0241_left.jpg,chairs,10,2872.jpg
+rw_same_cat/pair0040_right.jpg,chairs,12,5947.jpg
+rw_diff_cat/pair0280_left.jpg,chairs,25,2866.jpg
+rw_diff_cat/pair0174_left.jpg,chairs,26,2808.jpg
+rw_same_cat/pair0107_left.jpg,chairs,32,2890.jpg
+rw_same_cat/pair0174_left.jpg,chairs,58,2828.jpg
+rw_diff_cat/pair0064_left.jpg,chairs,62,2830.jpg
+rw_same_cat/pair0107_right.jpg,chairs,107,2857.jpg
+rw_same_cat/pair0040_left.jpg,chairs,119,2869.jpg
+rw_same_cat/pair0241_right.jpg,chairs,124,2842.jpg
+rw_diff_cat/pair0131_left.jpg,chairs,136,7371.jpg
+rw_same_cat/pair0167_left.jpg,chicken wings,12,5081.jpg
+rw_diff_cat/pair0234_left.jpg,chicken wings,12,5107.jpg
+rw_same_cat/pair0100_right.jpg,chicken wings,13,5104.jpg
+rw_diff_cat/pair0049_left.jpg,chicken wings,15,3554.jpg
+rw_diff_cat/pair0269_right.jpg,chicken wings,16,3546.jpg
+rw_diff_cat/pair0033_right.jpg,chicken wings,17,5118.jpg
+rw_same_cat/pair0234_right.jpg,chicken wings,18,6085.jpg
+rw_diff_cat/pair0209_left.jpg,chicken wings,20,3564.jpg
+rw_same_cat/pair0167_right.jpg,chicken wings,23,3560.jpg
+rw_diff_cat/pair0046_left.jpg,chicken wings,24,3548.jpg
+rw_same_cat/pair0100_left.jpg,chicken wings,27,3521.jpg
+rw_same_cat/pair0033_right.jpg,chicken wings,30,3572.jpg
+rw_diff_cat/pair0081_right.jpg,chicken wings,32,6088.jpg
+rw_same_cat/pair0248_right.jpg,coffee beans,9,5121.jpg
+rw_same_cat/pair0181_left.jpg,coffee beans,31,3600.jpg
+rw_diff_cat/pair0181_right.jpg,coffee beans,35,5677.jpg
+rw_same_cat/pair0047_left.jpg,coffee beans,72,3147.jpg
+rw_diff_cat/pair0114_left.jpg,coffee beans,72,5676.jpg
+rw_same_cat/pair0114_right.jpg,coffee beans,84,3593.jpg
+rw_same_cat/pair0248_left.jpg,coffee beans,100,3127.jpg
+rw_same_cat/pair0047_right.jpg,coffee beans,102,3123.jpg
+rw_diff_cat/pair0010_right.jpg,coins,10,6212.jpg
+rw_same_cat/pair0133_left.jpg,coins,35,6238.jpg
+rw_diff_cat/pair0281_right.jpg,coins,35,7110.jpg
+rw_same_cat/pair0133_right.jpg,coins,46,7642.jpg
+rw_same_cat/pair0066_left.jpg,coins,58,6219.jpg
+rw_diff_cat/pair0202_left.jpg,coins,63,6227.jpg
+rw_same_cat/pair0200_left.jpg,coins,68,6207.jpg
+rw_diff_cat/pair0191_right.jpg,coins,72,6225.jpg
+rw_diff_cat/pair0066_right.jpg,coins,76,7492.jpg
+rw_same_cat/pair0267_right.jpg,coins,80,6218.jpg
+rw_diff_cat/pair0194_right.jpg,coins,92,7570.jpg
+rw_diff_cat/pair0200_left.jpg,coins,93,6232.jpg
+rw_diff_cat/pair0012_left.jpg,coins,166,1762.jpg
+rw_diff_cat/pair0087_right.jpg,comic books,12,904.jpg
+rw_diff_cat/pair0020_right.jpg,comic books,16,7384.jpg
+rw_diff_cat/pair0211_right.jpg,comic books,21,7557.jpg
+rw_same_cat/pair0020_right.jpg,comic books,24,6742.jpg
+rw_diff_cat/pair0154_right.jpg,comic books,25,7389.jpg
+rw_diff_cat/pair0240_left.jpg,comic books,25,7709.jpg
+rw_same_cat/pair0154_right.jpg,comic books,30,7581.jpg
+rw_diff_cat/pair0292_right.jpg,comic books,33,7050.jpg
+rw_same_cat/pair0288_left.jpg,comic books,36,6906.jpg
+rw_diff_cat/pair0289_right.jpg,comic books,40,7695.jpg
+rw_diff_cat/pair0288_left.jpg,comic books,45,6990.jpg
+rw_same_cat/pair0221_left.jpg,comic books,45,7126.jpg
+rw_diff_cat/pair0268_left.jpg,comic books,47,7253.jpg
+rw_same_cat/pair0221_right.jpg,comic books,49,7098.jpg
+rw_same_cat/pair0087_left.jpg,comic books,85,911.jpg
+rw_diff_cat/pair0023_right.jpg,comic books,98,6736.jpg
+rw_diff_cat/pair0099_left.jpg,comic books,143,6985.jpg
+rw_same_cat/pair0275_left.jpg,cotton balls,8,4182.jpg
+rw_same_cat/pair0007_right.jpg,cotton balls,8,5416.jpg
+rw_diff_cat/pair0007_right.jpg,cotton balls,10,3293.jpg
+rw_diff_cat/pair0063_left.jpg,cotton balls,12,4183.jpg
+rw_same_cat/pair0141_left.jpg,cotton balls,14,5647.jpg
+rw_diff_cat/pair0208_left.jpg,cotton balls,15,5650.jpg
+rw_diff_cat/pair0054_right.jpg,cotton balls,15,5651.jpg
+rw_diff_cat/pair0270_left.jpg,cotton balls,20,4179.jpg
+rw_same_cat/pair0208_right.jpg,cotton balls,27,4181.jpg
+rw_same_cat/pair0074_right.jpg,cotton balls,30,4180.jpg
+rw_same_cat/pair0275_right.jpg,cotton balls,31,4189.jpg
+rw_diff_cat/pair0118_right.jpg,cotton balls,48,4185.jpg
+rw_diff_cat/pair0062_right.jpg,cotton balls,52,4188.jpg
+rw_same_cat/pair0074_left.jpg,cotton balls,61,5648.jpg
+rw_same_cat/pair0141_right.jpg,cotton balls,69,4187.jpg
+rw_diff_cat/pair0102_left.jpg,cupcake tray,9,3302.jpg
+rw_diff_cat/pair0275_right.jpg,cupcake tray,9,4276.jpg
+rw_same_cat/pair0035_left.jpg,cupcake tray,11,4254.jpg
+rw_diff_cat/pair0236_right.jpg,cupcake tray,12,4234.jpg
+rw_diff_cat/pair0025_right.jpg,cupcake tray,12,4252.jpg
+rw_same_cat/pair0169_right.jpg,cupcake tray,12,4253.jpg
+rw_same_cat/pair0236_left.jpg,cupcake tray,12,5452.jpg
+rw_same_cat/pair0169_left.jpg,cupcake tray,12,6022.jpg
+rw_diff_cat/pair0195_right.jpg,cupcake tray,16,3306.jpg
+rw_diff_cat/pair0188_right.jpg,cupcake tray,24,5787.jpg
+rw_diff_cat/pair0156_right.jpg,cupcake tray,35,6005.jpg
+rw_same_cat/pair0102_left.jpg,cupcake tray,48,5782.jpg
+rw_diff_cat/pair0035_left.jpg,cupcake tray,117,4263.jpg
+rw_diff_cat/pair0242_right.jpg,cupcakes,8,5251.jpg
+rw_same_cat/pair0175_left.jpg,cupcakes,12,3824.jpg
+rw_diff_cat/pair0108_left.jpg,cupcakes,12,3826.jpg
+rw_diff_cat/pair0160_left.jpg,cupcakes,12,5245.jpg
+rw_diff_cat/pair0190_right.jpg,cupcakes,12,5248.jpg
+rw_same_cat/pair0108_right.jpg,cupcakes,13,5237.jpg
+rw_diff_cat/pair0041_right.jpg,cupcakes,15,5252.jpg
+rw_same_cat/pair0041_right.jpg,cupcakes,16,5239.jpg
+rw_same_cat/pair0175_right.jpg,cupcakes,17,3832.jpg
+rw_diff_cat/pair0123_right.jpg,cupcakes,23,3813.jpg
+rw_diff_cat/pair0101_left.jpg,cups,12,788.jpg
+rw_diff_cat/pair0115_right.jpg,cups,16,2434.jpg
+rw_same_cat/pair0249_right.jpg,cups,16,7084.jpg
+rw_same_cat/pair0249_left.jpg,cups,17,2415.jpg
+rw_same_cat/pair0048_left.jpg,cups,21,7427.jpg
+rw_diff_cat/pair0229_left.jpg,cups,22,2427.jpg
+rw_diff_cat/pair0048_left.jpg,cups,23,2446.jpg
+rw_same_cat/pair0182_right.jpg,cups,30,2424.jpg
+rw_same_cat/pair0182_left.jpg,cups,63,7037.jpg
+rw_diff_cat/pair0199_left.jpg,cups,69,779.jpg
+rw_same_cat/pair0115_right.jpg,cups,72,7448.jpg
+rw_diff_cat/pair0018_right.jpg,cups,159,7225.jpg
+rw_same_cat/pair0004_right.jpg,donuts tray,8,3784.jpg
+rw_diff_cat/pair0114_right.jpg,donuts tray,8,5666.jpg
+rw_same_cat/pair0205_right.jpg,donuts tray,9,3758.jpg
+rw_diff_cat/pair0047_left.jpg,donuts tray,10,3770.jpg
+rw_same_cat/pair0138_left.jpg,donuts tray,10,3771.jpg
+rw_same_cat/pair0205_left.jpg,donuts tray,10,5217.jpg
+rw_same_cat/pair0138_right.jpg,donuts tray,12,3760.jpg
+rw_same_cat/pair0272_right.jpg,donuts tray,12,3765.jpg
+rw_same_cat/pair0004_left.jpg,donuts tray,12,3775.jpg
+rw_diff_cat/pair0235_left.jpg,donuts tray,12,5661.jpg
+rw_same_cat/pair0272_left.jpg,donuts tray,12,5662.jpg
+rw_diff_cat/pair0166_right.jpg,donuts tray,16,3763.jpg
+rw_diff_cat/pair0071_left.jpg,donuts tray,16,5209.jpg
+rw_same_cat/pair0071_left.jpg,donuts tray,30,5206.jpg
+rw_diff_cat/pair0168_right.jpg,eggs,10,5937.jpg
+rw_diff_cat/pair0013_right.jpg,eggs,13,5923.jpg
+rw_diff_cat/pair0112_left.jpg,eggs,22,5925.jpg
+rw_same_cat/pair0179_left.jpg,eggs,24,7682.jpg
+rw_same_cat/pair0246_right.jpg,eggs,26,7277.jpg
+rw_diff_cat/pair0031_left.jpg,eggs,31,5938.jpg
+rw_same_cat/pair0112_right.jpg,eggs,35,6756.jpg
+rw_same_cat/pair0179_right.jpg,eggs,39,5919.jpg
+rw_same_cat/pair0045_right.jpg,eggs,46,7714.jpg
+rw_same_cat/pair0246_left.jpg,eggs,58,5928.jpg
+rw_same_cat/pair0045_left.jpg,eggs,67,7188.jpg
+rw_diff_cat/pair0077_right.jpg,eggs,68,6852.jpg
+rw_same_cat/pair0081_left.jpg,elephants,11,1888.jpg
+rw_diff_cat/pair0282_left.jpg,elephants,11,7459.jpg
+rw_same_cat/pair0014_right.jpg,elephants,13,7106.jpg
+rw_same_cat/pair0282_left.jpg,elephants,20,7550.jpg
+rw_diff_cat/pair0215_left.jpg,elephants,22,7140.jpg
+rw_same_cat/pair0148_right.jpg,elephants,22,7480.jpg
+rw_diff_cat/pair0081_left.jpg,elephants,23,7282.jpg
+rw_same_cat/pair0215_left.jpg,elephants,27,6956.jpg
+rw_same_cat/pair0014_left.jpg,elephants,36,7474.jpg
+rw_same_cat/pair0148_left.jpg,elephants,54,1875.jpg
+rw_same_cat/pair0059_left.jpg,finger foods,8,5387.jpg
+rw_diff_cat/pair0239_right.jpg,finger foods,8,5565.jpg
+rw_same_cat/pair0126_left.jpg,finger foods,9,5379.jpg
+rw_same_cat/pair0059_right.jpg,finger foods,9,5380.jpg
+rw_diff_cat/pair0193_left.jpg,finger foods,12,3275.jpg
+rw_same_cat/pair0193_left.jpg,finger foods,13,4118.jpg
+rw_diff_cat/pair0242_left.jpg,finger foods,13,4123.jpg
+rw_diff_cat/pair0126_right.jpg,finger foods,13,5388.jpg
+rw_diff_cat/pair0107_right.jpg,finger foods,13,5562.jpg
+rw_same_cat/pair0260_right.jpg,finger foods,18,5375.jpg
+rw_diff_cat/pair0174_right.jpg,finger foods,19,3268.jpg
+rw_same_cat/pair0260_left.jpg,finger foods,19,3270.jpg
+rw_same_cat/pair0240_left.jpg,fishes,17,792.jpg
+rw_same_cat/pair0240_right.jpg,fishes,19,6776.jpg
+rw_diff_cat/pair0173_left.jpg,fishes,26,7274.jpg
+rw_diff_cat/pair0039_left.jpg,fishes,28,7214.jpg
+rw_diff_cat/pair0083_left.jpg,fishes,30,2975.jpg
+rw_same_cat/pair0173_right.jpg,fishes,31,6861.jpg
+rw_same_cat/pair0106_right.jpg,fishes,89,2961.jpg
+rw_same_cat/pair0039_left.jpg,fishes,149,2958.jpg
+rw_diff_cat/pair0230_left.jpg,grapes,25,4807.jpg
+rw_diff_cat/pair0276_left.jpg,grapes,29,4822.jpg
+rw_diff_cat/pair0217_right.jpg,grapes,30,5880.jpg
+rw_diff_cat/pair0246_left.jpg,grapes,32,5898.jpg
+rw_diff_cat/pair0019_right.jpg,grapes,33,4816.jpg
+rw_same_cat/pair0153_right.jpg,grapes,41,4806.jpg
+rw_same_cat/pair0287_right.jpg,grapes,49,5887.jpg
+rw_same_cat/pair0086_left.jpg,grapes,53,5871.jpg
+rw_same_cat/pair0153_left.jpg,grapes,55,245.jpg
+rw_same_cat/pair0220_left.jpg,grapes,58,5862.jpg
+rw_same_cat/pair0287_left.jpg,grapes,61,4847.jpg
+rw_diff_cat/pair0022_right.jpg,grapes,65,222.jpg
+rw_same_cat/pair0220_right.jpg,grapes,65,5909.jpg
+rw_same_cat/pair0086_right.jpg,grapes,74,5875.jpg
+rw_diff_cat/pair0032_right.jpg,grapes,84,5888.jpg
+rw_same_cat/pair0019_left.jpg,grapes,112,4810.jpg
+rw_diff_cat/pair0299_right.jpg,grapes,122,4799.jpg
+rw_diff_cat/pair0282_right.jpg,grapes,144,4820.jpg
+rw_diff_cat/pair0274_right.jpg,green peas,11,4292.jpg
+rw_same_cat/pair0207_right.jpg,green peas,44,4301.jpg
+rw_diff_cat/pair0006_left.jpg,green peas,56,3324.jpg
+rw_same_cat/pair0073_left.jpg,green peas,72,5459.jpg
+rw_same_cat/pair0207_left.jpg,green peas,84,5508.jpg
+rw_diff_cat/pair0053_left.jpg,green peas,89,5513.jpg
+rw_diff_cat/pair0201_left.jpg,green peas,99,3328.jpg
+rw_same_cat/pair0006_right.jpg,green peas,110,4295.jpg
+rw_same_cat/pair0140_right.jpg,green peas,113,3333.jpg
+rw_diff_cat/pair0234_right.jpg,green peas,121,5510.jpg
+rw_same_cat/pair0140_left.jpg,green peas,131,5460.jpg
+rw_same_cat/pair0274_left.jpg,green peas,146,3334.jpg
+rw_same_cat/pair0073_right.jpg,green peas,185,3318.jpg
+rw_diff_cat/pair0020_left.jpg,horses,9,2411.jpg
+rw_same_cat/pair0099_right.jpg,horses,11,6957.jpg
+rw_same_cat/pair0233_right.jpg,horses,11,6979.jpg
+rw_same_cat/pair0099_left.jpg,horses,13,7193.jpg
+rw_same_cat/pair0166_right.jpg,horses,13,7433.jpg
+rw_same_cat/pair0300_left.jpg,horses,14,6825.jpg
+rw_diff_cat/pair0166_left.jpg,horses,14,7391.jpg
+rw_same_cat/pair0300_right.jpg,horses,14,7602.jpg
+rw_diff_cat/pair0032_left.jpg,horses,15,2412.jpg
+rw_same_cat/pair0233_left.jpg,horses,59,2409.jpg
+rw_diff_cat/pair0127_right.jpg,horses,65,7531.jpg
+rw_diff_cat/pair0243_left.jpg,hot air balloons,8,4421.jpg
+rw_same_cat/pair0042_right.jpg,hot air balloons,9,4409.jpg
+rw_diff_cat/pair0260_right.jpg,hot air balloons,10,4.jpg
+rw_diff_cat/pair0042_right.jpg,hot air balloons,10,4422.jpg
+rw_diff_cat/pair0002_right.jpg,hot air balloons,11,3.jpg
+rw_same_cat/pair0109_left.jpg,hot air balloons,11,4414.jpg
+rw_diff_cat/pair0221_right.jpg,hot air balloons,12,4423.jpg
+rw_diff_cat/pair0024_right.jpg,hot air balloons,15,4419.jpg
+rw_same_cat/pair0109_right.jpg,hot air balloons,30,4418.jpg
+rw_same_cat/pair0176_right.jpg,hot air balloons,63,4417.jpg
+rw_same_cat/pair0243_right.jpg,hot air balloons,69,4407.jpg
+rw_same_cat/pair0176_left.jpg,hot air balloons,113,5.jpg
+rw_diff_cat/pair0148_left.jpg,jade stones,10,3631.jpg
+rw_same_cat/pair0067_right.jpg,jade stones,13,5521.jpg
+rw_diff_cat/pair0159_left.jpg,jade stones,15,3629.jpg
+rw_same_cat/pair0134_right.jpg,jade stones,15,5528.jpg
+rw_same_cat/pair0268_right.jpg,jade stones,16,5527.jpg
+rw_diff_cat/pair0070_right.jpg,jade stones,18,5520.jpg
+rw_diff_cat/pair0201_right.jpg,jade stones,25,5526.jpg
+rw_same_cat/pair0201_left.jpg,jade stones,26,5522.jpg
+rw_diff_cat/pair0268_right.jpg,jade stones,27,5523.jpg
+rw_same_cat/pair0134_left.jpg,jade stones,31,3625.jpg
+rw_same_cat/pair0067_left.jpg,jade stones,35,3632.jpg
+rw_diff_cat/pair0122_left.jpg,jade stones,40,5529.jpg
+rw_diff_cat/pair0237_right.jpg,keyboard keys,48,7109.jpg
+rw_diff_cat/pair0057_right.jpg,keyboard keys,63,1455.jpg
+rw_diff_cat/pair0036_right.jpg,keyboard keys,77,7539.jpg
+rw_same_cat/pair0103_right.jpg,keyboard keys,86,6044.jpg
+rw_diff_cat/pair0103_left.jpg,keyboard keys,87,7671.jpg
+rw_diff_cat/pair0271_right.jpg,keyboard keys,103,6048.jpg
+rw_diff_cat/pair0170_right.jpg,keyboard keys,104,6050.jpg
+rw_same_cat/pair0170_left.jpg,keyboard keys,108,6053.jpg
+rw_same_cat/pair0237_left.jpg,keyboard keys,108,6739.jpg
+rw_same_cat/pair0036_right.jpg,keyboard keys,124,7529.jpg
+rw_diff_cat/pair0146_right.jpg,kidney beans,9,5234.jpg
+rw_same_cat/pair0017_left.jpg,kidney beans,21,5552.jpg
+rw_same_cat/pair0151_right.jpg,kidney beans,31,3788.jpg
+rw_diff_cat/pair0285_right.jpg,kidney beans,43,5231.jpg
+rw_same_cat/pair0218_left.jpg,kidney beans,45,3493.jpg
+rw_diff_cat/pair0265_left.jpg,kidney beans,52,5549.jpg
+rw_same_cat/pair0285_left.jpg,kidney beans,55,3224.jpg
+rw_diff_cat/pair0102_right.jpg,kidney beans,57,5557.jpg
+rw_same_cat/pair0151_left.jpg,kidney beans,70,3502.jpg
+rw_same_cat/pair0017_right.jpg,kidney beans,89,3223.jpg
+rw_same_cat/pair0084_left.jpg,kidney beans,95,5554.jpg
+rw_same_cat/pair0084_right.jpg,kidney beans,103,3496.jpg
+rw_diff_cat/pair0279_left.jpg,kidney beans,106,5556.jpg
+rw_diff_cat/pair0218_left.jpg,kidney beans,189,5560.jpg
+rw_same_cat/pair0263_left.jpg,kiwis,8,4588.jpg
+rw_diff_cat/pair0108_right.jpg,kiwis,8,4601.jpg
+rw_diff_cat/pair0164_left.jpg,kiwis,12,4585.jpg
+rw_diff_cat/pair0125_left.jpg,kiwis,12,4586.jpg
+rw_diff_cat/pair0052_right.jpg,kiwis,16,4595.jpg
+rw_diff_cat/pair0154_left.jpg,kiwis,22,4598.jpg
+rw_same_cat/pair0263_right.jpg,kiwis,24,4596.jpg
+rw_same_cat/pair0062_right.jpg,kiwis,33,4587.jpg
+rw_diff_cat/pair0129_left.jpg,kiwis,34,4605.jpg
+rw_diff_cat/pair0106_left.jpg,kiwis,38,4591.jpg
+rw_same_cat/pair0196_left.jpg,kiwis,51,4611.jpg
+rw_same_cat/pair0062_left.jpg,kiwis,54,4602.jpg
+rw_diff_cat/pair0030_left.jpg,kiwis,64,4597.jpg
+rw_diff_cat/pair0276_right.jpg,lipstick,8,5995.jpg
+rw_same_cat/pair0075_right.jpg,lipstick,12,2498.jpg
+rw_same_cat/pair0075_left.jpg,lipstick,12,2506.jpg
+rw_diff_cat/pair0232_right.jpg,lipstick,12,2509.jpg
+rw_diff_cat/pair0213_right.jpg,lipstick,12,5986.jpg
+rw_same_cat/pair0008_right.jpg,lipstick,14,2484.jpg
+rw_same_cat/pair0276_left.jpg,lipstick,15,2492.jpg
+rw_diff_cat/pair0161_left.jpg,lipstick,16,2515.jpg
+rw_diff_cat/pair0297_left.jpg,lipstick,22,2490.jpg
+rw_same_cat/pair0142_left.jpg,lipstick,24,7255.jpg
+rw_diff_cat/pair0117_right.jpg,lipstick,24,7692.jpg
+rw_diff_cat/pair0142_right.jpg,lipstick,28,2507.jpg
+rw_diff_cat/pair0008_right.jpg,lipstick,49,2497.jpg
+rw_same_cat/pair0209_left.jpg,lipstick,49,7160.jpg
+rw_diff_cat/pair0209_right.jpg,lipstick,62,2517.jpg
+rw_diff_cat/pair0095_left.jpg,lipstick,69,7608.jpg
+rw_diff_cat/pair0058_right.jpg,lipstick,151,7010.jpg
+rw_same_cat/pair0155_left.jpg,macarons,9,3288.jpg
+rw_diff_cat/pair0155_left.jpg,macarons,10,5406.jpg
+rw_same_cat/pair0088_right.jpg,macarons,12,4157.jpg
+rw_same_cat/pair0021_left.jpg,macarons,12,4158.jpg
+rw_diff_cat/pair0021_left.jpg,macarons,14,5413.jpg
+rw_diff_cat/pair0289_left.jpg,macarons,16,4151.jpg
+rw_same_cat/pair0222_right.jpg,macarons,16,4153.jpg
+rw_same_cat/pair0088_left.jpg,macarons,18,4162.jpg
+rw_same_cat/pair0289_right.jpg,macarons,24,4147.jpg
+rw_diff_cat/pair0009_right.jpg,macarons,32,431.jpg
+rw_same_cat/pair0222_left.jpg,macarons,41,5614.jpg
+rw_diff_cat/pair0033_left.jpg,marbles,8,5581.jpg
+rw_diff_cat/pair0127_left.jpg,marbles,11,4063.jpg
+rw_diff_cat/pair0060_right.jpg,marbles,12,4084.jpg
+rw_same_cat/pair0194_right.jpg,marbles,20,5571.jpg
+rw_diff_cat/pair0185_left.jpg,marbles,23,4074.jpg
+rw_diff_cat/pair0079_left.jpg,marbles,25,4073.jpg
+rw_diff_cat/pair0140_left.jpg,marbles,40,5373.jpg
+rw_diff_cat/pair0098_right.jpg,marbles,44,5371.jpg
+rw_diff_cat/pair0194_left.jpg,marbles,54,4080.jpg
+rw_same_cat/pair0060_left.jpg,marbles,57,5366.jpg
+rw_diff_cat/pair0048_right.jpg,marbles,76,4070.jpg
+rw_same_cat/pair0261_left.jpg,marbles,118,4069.jpg
+rw_same_cat/pair0261_right.jpg,marbles,149,5600.jpg
+rw_diff_cat/pair0224_right.jpg,mini blinds,9,2993.jpg
+rw_diff_cat/pair0178_left.jpg,mini blinds,9,3028.jpg
+rw_diff_cat/pair0182_left.jpg,mini blinds,10,3018.jpg
+rw_diff_cat/pair0144_right.jpg,mini blinds,10,3042.jpg
+rw_diff_cat/pair0044_right.jpg,mini blinds,20,3044.jpg
+rw_same_cat/pair0245_right.jpg,mini blinds,25,7068.jpg
+rw_diff_cat/pair0177_right.jpg,mini blinds,27,2991.jpg
+rw_diff_cat/pair0141_right.jpg,mini blinds,30,3065.jpg
+rw_diff_cat/pair0245_left.jpg,mini blinds,38,3047.jpg
+rw_same_cat/pair0044_right.jpg,mini blinds,43,3015.jpg
+rw_diff_cat/pair0111_right.jpg,mini blinds,52,3026.jpg
+rw_same_cat/pair0178_right.jpg,mini blinds,62,6762.jpg
+rw_same_cat/pair0111_right.jpg,mini blinds,67,7397.jpg
+rw_diff_cat/pair0136_right.jpg,nail polish,25,6828.jpg
+rw_same_cat/pair0124_right.jpg,nail polish,43,7034.jpg
+rw_same_cat/pair0258_right.jpg,nail polish,51,7219.jpg
+rw_diff_cat/pair0124_right.jpg,nail polish,59,7079.jpg
+rw_diff_cat/pair0057_left.jpg,nail polish,66,7387.jpg
+rw_same_cat/pair0191_left.jpg,nail polish,72,7278.jpg
+rw_diff_cat/pair0257_right.jpg,nail polish,87,7136.jpg
+rw_diff_cat/pair0258_right.jpg,nail polish,98,7512.jpg
+rw_same_cat/pair0057_left.jpg,nail polish,118,7711.jpg
+rw_diff_cat/pair0145_right.jpg,nail polish,146,7462.jpg
+rw_diff_cat/pair0019_left.jpg,nuts,13,3160.jpg
+rw_same_cat/pair0136_left.jpg,nuts,21,5792.jpg
+rw_same_cat/pair0203_left.jpg,nuts,23,5492.jpg
+rw_diff_cat/pair0074_right.jpg,nuts,31,3402.jpg
+rw_same_cat/pair0136_right.jpg,nuts,31,5805.jpg
+rw_same_cat/pair0069_left.jpg,nuts,35,5791.jpg
+rw_diff_cat/pair0203_left.jpg,nuts,42,3157.jpg
+rw_same_cat/pair0002_right.jpg,nuts,43,5149.jpg
+rw_diff_cat/pair0002_left.jpg,nuts,43,5804.jpg
+rw_same_cat/pair0069_right.jpg,nuts,71,5796.jpg
+rw_same_cat/pair0270_right.jpg,nuts,74,5487.jpg
+rw_diff_cat/pair0270_right.jpg,nuts,96,3406.jpg
+rw_diff_cat/pair0252_right.jpg,nuts,110,5482.jpg
+rw_diff_cat/pair0139_left.jpg,oranges,14,2759.jpg
+rw_same_cat/pair0056_right.jpg,oranges,15,2755.jpg
+rw_same_cat/pair0123_left.jpg,oranges,15,6579.jpg
+rw_same_cat/pair0190_left.jpg,oranges,34,7690.jpg
+rw_same_cat/pair0257_left.jpg,oranges,43,2737.jpg
+rw_diff_cat/pair0111_left.jpg,oranges,48,2707.jpg
+rw_same_cat/pair0190_right.jpg,oranges,48,2762.jpg
+rw_diff_cat/pair0257_left.jpg,oranges,50,2719.jpg
+rw_diff_cat/pair0273_right.jpg,oranges,54,2766.jpg
+rw_diff_cat/pair0056_left.jpg,oranges,59,2753.jpg
+rw_diff_cat/pair0123_left.jpg,oranges,68,2754.jpg
+rw_diff_cat/pair0228_left.jpg,peaches,9,4737.jpg
+rw_diff_cat/pair0198_right.jpg,peaches,10,195.jpg
+rw_same_cat/pair0296_right.jpg,peaches,14,4740.jpg
+rw_diff_cat/pair0087_left.jpg,peaches,21,4762.jpg
+rw_same_cat/pair0028_left.jpg,peaches,21,4764.jpg
+rw_diff_cat/pair0089_left.jpg,peaches,22,4753.jpg
+rw_diff_cat/pair0152_right.jpg,peaches,23,4738.jpg
+rw_same_cat/pair0162_left.jpg,peaches,30,4760.jpg
+rw_same_cat/pair0095_right.jpg,peaches,39,4746.jpg
+rw_diff_cat/pair0253_left.jpg,peaches,39,4750.jpg
+rw_diff_cat/pair0296_left.jpg,peaches,41,4741.jpg
+rw_same_cat/pair0028_right.jpg,peaches,42,4758.jpg
+rw_same_cat/pair0095_left.jpg,peaches,69,198.jpg
+rw_same_cat/pair0162_right.jpg,peaches,82,194.jpg
+rw_same_cat/pair0229_right.jpg,peaches,85,196.jpg
+rw_same_cat/pair0229_left.jpg,peaches,133,4749.jpg
+rw_diff_cat/pair0134_left.jpg,pearls,10,5199.jpg
+rw_diff_cat/pair0029_left.jpg,pearls,10,5535.jpg
+rw_same_cat/pair0230_left.jpg,pearls,15,5543.jpg
+rw_diff_cat/pair0037_left.jpg,pearls,18,5193.jpg
+rw_same_cat/pair0230_right.jpg,pearls,19,5541.jpg
+rw_diff_cat/pair0069_left.jpg,pearls,23,3755.jpg
+rw_same_cat/pair0163_right.jpg,pearls,24,5189.jpg
+rw_same_cat/pair0029_left.jpg,pearls,25,5194.jpg
+rw_diff_cat/pair0204_left.jpg,pearls,25,5197.jpg
+rw_diff_cat/pair0056_right.jpg,pearls,30,5536.jpg
+rw_same_cat/pair0163_left.jpg,pearls,38,5198.jpg
+rw_same_cat/pair0096_left.jpg,pearls,42,5196.jpg
+rw_same_cat/pair0297_right.jpg,pearls,66,3751.jpg
+rw_diff_cat/pair0096_left.jpg,pearls,76,5186.jpg
+rw_diff_cat/pair0084_right.jpg,pearls,127,5185.jpg
+rw_diff_cat/pair0297_right.jpg,pearls,138,5195.jpg
+rw_diff_cat/pair0250_right.jpg,pearls,195,3748.jpg
+rw_same_cat/pair0024_left.jpg,pencils,12,6598.jpg
+rw_diff_cat/pair0225_right.jpg,pencils,12,6599.jpg
+rw_same_cat/pair0158_left.jpg,pencils,12,7465.jpg
+rw_same_cat/pair0225_right.jpg,pencils,18,1625.jpg
+rw_diff_cat/pair0091_right.jpg,pencils,25,7324.jpg
+rw_same_cat/pair0292_left.jpg,pencils,36,6712.jpg
+rw_diff_cat/pair0157_right.jpg,pencils,36,6717.jpg
+rw_same_cat/pair0024_right.jpg,pencils,40,6614.jpg
+rw_diff_cat/pair0026_right.jpg,pencils,61,6597.jpg
+rw_diff_cat/pair0292_left.jpg,pencils,61,6601.jpg
+rw_same_cat/pair0091_left.jpg,pencils,61,7017.jpg
+rw_diff_cat/pair0158_left.jpg,pencils,72,7607.jpg
+rw_diff_cat/pair0046_right.jpg,penguins,8,277.jpg
+rw_same_cat/pair0113_right.jpg,penguins,8,283.jpg
+rw_same_cat/pair0180_right.jpg,penguins,9,4863.jpg
+rw_same_cat/pair0247_right.jpg,penguins,10,4864.jpg
+rw_diff_cat/pair0080_left.jpg,penguins,12,276.jpg
+rw_same_cat/pair0046_left.jpg,penguins,17,4867.jpg
+rw_same_cat/pair0247_left.jpg,penguins,24,4872.jpg
+rw_diff_cat/pair0272_right.jpg,penguins,26,4861.jpg
+rw_same_cat/pair0113_left.jpg,penguins,30,274.jpg
+rw_same_cat/pair0180_left.jpg,penguins,125,4873.jpg
+rw_diff_cat/pair0022_left.jpg,pens,10,2117.jpg
+rw_same_cat/pair0022_left.jpg,pens,12,2108.jpg
+rw_diff_cat/pair0089_right.jpg,pens,13,2110.jpg
+rw_same_cat/pair0156_right.jpg,pens,15,2091.jpg
+rw_same_cat/pair0223_right.jpg,pens,21,2116.jpg
+rw_diff_cat/pair0290_right.jpg,pens,24,2119.jpg
+rw_diff_cat/pair0088_right.jpg,pens,33,6652.jpg
+rw_same_cat/pair0223_left.jpg,pens,41,7677.jpg
+rw_same_cat/pair0089_right.jpg,pens,61,1130.jpg
+rw_same_cat/pair0290_right.jpg,pens,72,6711.jpg
+rw_same_cat/pair0156_left.jpg,pens,87,7585.jpg
+rw_diff_cat/pair0216_right.jpg,pills,9,6292.jpg
+rw_same_cat/pair0015_left.jpg,pills,9,6303.jpg
+rw_diff_cat/pair0015_left.jpg,pills,16,6289.jpg
+rw_same_cat/pair0082_left.jpg,pills,17,6782.jpg
+rw_same_cat/pair0149_left.jpg,pills,18,6288.jpg
+rw_diff_cat/pair0200_right.jpg,pills,22,7503.jpg
+rw_same_cat/pair0149_right.jpg,pills,24,6300.jpg
+rw_same_cat/pair0283_left.jpg,pills,28,6299.jpg
+rw_diff_cat/pair0163_left.jpg,pills,30,7318.jpg
+rw_diff_cat/pair0153_left.jpg,pills,33,6296.jpg
+rw_diff_cat/pair0082_right.jpg,pills,50,6294.jpg
+rw_same_cat/pair0283_right.jpg,pills,61,6298.jpg
+rw_same_cat/pair0216_left.jpg,pills,65,7060.jpg
+rw_diff_cat/pair0248_left.jpg,pills,70,6295.jpg
+rw_diff_cat/pair0051_left.jpg,pills,111,7121.jpg
+rw_diff_cat/pair0093_left.jpg,pills,193,7260.jpg
+rw_same_cat/pair0097_left.jpg,plates,11,894.jpg
+rw_same_cat/pair0298_right.jpg,plates,12,898.jpg
+rw_same_cat/pair0097_right.jpg,plates,14,881.jpg
+rw_same_cat/pair0231_left.jpg,plates,15,896.jpg
+rw_diff_cat/pair0151_right.jpg,plates,15,902.jpg
+rw_diff_cat/pair0187_left.jpg,plates,16,882.jpg
+rw_same_cat/pair0164_right.jpg,plates,17,895.jpg
+rw_diff_cat/pair0092_right.jpg,plates,18,7631.jpg
+rw_same_cat/pair0030_left.jpg,plates,20,7157.jpg
+rw_diff_cat/pair0132_right.jpg,plates,22,888.jpg
+rw_diff_cat/pair0207_right.jpg,plates,23,7217.jpg
+rw_diff_cat/pair0298_left.jpg,plates,25,7325.jpg
+rw_same_cat/pair0231_right.jpg,plates,27,7394.jpg
+rw_diff_cat/pair0030_right.jpg,plates,52,897.jpg
+rw_diff_cat/pair0164_right.jpg,plates,57,887.jpg
+rw_diff_cat/pair0241_left.jpg,polka dots,25,5738.jpg
+rw_same_cat/pair0101_left.jpg,polka dots,30,5047.jpg
+rw_diff_cat/pair0219_right.jpg,polka dots,36,5741.jpg
+rw_same_cat/pair0235_right.jpg,polka dots,41,3478.jpg
+rw_same_cat/pair0168_right.jpg,polka dots,43,5742.jpg
+rw_diff_cat/pair0072_left.jpg,polka dots,49,3432.jpg
+rw_diff_cat/pair0101_right.jpg,polka dots,64,3490.jpg
+rw_same_cat/pair0168_left.jpg,polka dots,72,5063.jpg
+rw_diff_cat/pair0119_right.jpg,polka dots,74,5748.jpg
+rw_diff_cat/pair0078_right.jpg,polka dots,98,5060.jpg
+rw_diff_cat/pair0266_right.jpg,polka dots,100,5746.jpg
+rw_same_cat/pair0235_left.jpg,polka dots,100,5747.jpg
+rw_same_cat/pair0034_left.jpg,polka dots,146,5740.jpg
+rw_diff_cat/pair0034_right.jpg,polka dots,146,5745.jpg
+rw_same_cat/pair0264_left.jpg,potatoes,8,5301.jpg
+rw_diff_cat/pair0158_right.jpg,potatoes,8,5686.jpg
+rw_same_cat/pair0264_right.jpg,potatoes,16,6034.jpg
+rw_same_cat/pair0197_left.jpg,potatoes,17,3938.jpg
+rw_same_cat/pair0130_left.jpg,potatoes,24,3906.jpg
+rw_same_cat/pair0130_right.jpg,potatoes,28,3937.jpg
+rw_diff_cat/pair0065_right.jpg,potatoes,31,3911.jpg
+rw_diff_cat/pair0045_right.jpg,potatoes,32,5297.jpg
+rw_diff_cat/pair0220_left.jpg,potatoes,34,3931.jpg
+rw_same_cat/pair0063_right.jpg,potatoes,34,5684.jpg
+rw_same_cat/pair0063_left.jpg,potatoes,40,3914.jpg
+rw_same_cat/pair0197_right.jpg,potatoes,72,3905.jpg
+rw_diff_cat/pair0184_left.jpg,roof tiles,16,6318.jpg
+rw_same_cat/pair0227_right.jpg,roof tiles,24,6314.jpg
+rw_same_cat/pair0227_left.jpg,roof tiles,25,6329.jpg
+rw_diff_cat/pair0294_right.jpg,roof tiles,27,6311.jpg
+rw_diff_cat/pair0011_right.jpg,roof tiles,53,6319.jpg
+rw_diff_cat/pair0160_right.jpg,roof tiles,58,6317.jpg
+rw_diff_cat/pair0130_left.jpg,roof tiles,99,7059.jpg
+rw_diff_cat/pair0093_right.jpg,roof tiles,125,6323.jpg
+rw_diff_cat/pair0066_left.jpg,roof tiles,159,1246.jpg
+rw_same_cat/pair0160_left.jpg,roof tiles,159,6322.jpg
+rw_same_cat/pair0026_left.jpg,roof tiles,183,6332.jpg
+rw_same_cat/pair0026_right.jpg,roof tiles,197,7454.jpg
+rw_diff_cat/pair0147_right.jpg,sheep,22,1061.jpg
+rw_diff_cat/pair0179_right.jpg,sheep,31,7598.jpg
+rw_diff_cat/pair0080_right.jpg,sheep,44,7366.jpg
+rw_same_cat/pair0147_left.jpg,sheep,51,7328.jpg
+rw_same_cat/pair0080_right.jpg,sheep,54,7047.jpg
+rw_same_cat/pair0214_right.jpg,sheep,67,6847.jpg
+rw_same_cat/pair0281_left.jpg,sheep,75,7281.jpg
+rw_diff_cat/pair0281_left.jpg,sheep,109,6750.jpg
+rw_same_cat/pair0013_right.jpg,sheep,122,7475.jpg
+rw_diff_cat/pair0067_right.jpg,sheep,128,7082.jpg
+rw_same_cat/pair0013_left.jpg,sheep,181,7500.jpg
+rw_diff_cat/pair0256_left.jpg,sheep,190,6713.jpg
+rw_same_cat/pair0259_right.jpg,shoes,8,6360.jpg
+rw_diff_cat/pair0259_right.jpg,shoes,8,6362.jpg
+rw_same_cat/pair0058_right.jpg,shoes,10,6372.jpg
+rw_diff_cat/pair0290_left.jpg,shoes,16,6367.jpg
+rw_diff_cat/pair0291_right.jpg,shoes,18,6352.jpg
+rw_diff_cat/pair0203_right.jpg,shoes,18,6355.jpg
+rw_same_cat/pair0192_right.jpg,shoes,52,6363.jpg
+rw_same_cat/pair0125_right.jpg,shoes,77,7335.jpg
+rw_diff_cat/pair0125_right.jpg,shoes,84,6366.jpg
+rw_diff_cat/pair0015_right.jpg,shoes,85,6356.jpg
+rw_same_cat/pair0192_left.jpg,shoes,105,7351.jpg
+rw_same_cat/pair0058_left.jpg,shoes,141,7470.jpg
+rw_diff_cat/pair0238_right.jpg,spoon,8,2523.jpg
+rw_same_cat/pair0171_right.jpg,spoon,8,2538.jpg
+rw_diff_cat/pair0133_left.jpg,spoon,10,2528.jpg
+rw_diff_cat/pair0258_left.jpg,spoon,12,6819.jpg
+rw_same_cat/pair0104_right.jpg,spoon,12,7618.jpg
+rw_same_cat/pair0238_left.jpg,spoon,13,2530.jpg
+rw_diff_cat/pair0104_left.jpg,spoon,13,7163.jpg
+rw_diff_cat/pair0172_right.jpg,spoon,16,2536.jpg
+rw_same_cat/pair0037_right.jpg,spoon,18,2521.jpg
+rw_same_cat/pair0171_left.jpg,spoon,20,2522.jpg
+rw_same_cat/pair0037_left.jpg,spoon,20,2527.jpg
+rw_diff_cat/pair0162_left.jpg,spoon,27,2539.jpg
+rw_diff_cat/pair0001_left.jpg,stairs,10,3855.jpg
+rw_diff_cat/pair0035_right.jpg,stairs,10,3868.jpg
+rw_same_cat/pair0146_right.jpg,stairs,11,3839.jpg
+rw_same_cat/pair0280_right.jpg,stairs,11,3858.jpg
+rw_same_cat/pair0213_left.jpg,stairs,11,3867.jpg
+rw_diff_cat/pair0040_right.jpg,stairs,12,3851.jpg
+rw_same_cat/pair0012_right.jpg,stairs,13,3848.jpg
+rw_same_cat/pair0146_left.jpg,stairs,13,5263.jpg
+rw_diff_cat/pair0280_right.jpg,stairs,14,3860.jpg
+rw_diff_cat/pair0121_left.jpg,stairs,15,3853.jpg
+rw_same_cat/pair0213_right.jpg,stairs,16,3850.jpg
+rw_diff_cat/pair0079_right.jpg,stairs,18,5268.jpg
+rw_diff_cat/pair0012_right.jpg,stairs,24,3869.jpg
+rw_same_cat/pair0079_right.jpg,stairs,64,3842.jpg
+rw_diff_cat/pair0011_left.jpg,stamps,9,2938.jpg
+rw_diff_cat/pair0078_left.jpg,stamps,13,2920.jpg
+rw_same_cat/pair0279_left.jpg,stamps,14,2910.jpg
+rw_same_cat/pair0279_right.jpg,stamps,14,2945.jpg
+rw_diff_cat/pair0212_left.jpg,stamps,20,2917.jpg
+rw_diff_cat/pair0135_left.jpg,stamps,20,7687.jpg
+rw_diff_cat/pair0218_right.jpg,stamps,25,2942.jpg
+rw_diff_cat/pair0068_left.jpg,stamps,25,2956.jpg
+rw_diff_cat/pair0138_right.jpg,stamps,27,2921.jpg
+rw_same_cat/pair0212_right.jpg,stamps,31,7555.jpg
+rw_diff_cat/pair0038_left.jpg,stamps,32,6986.jpg
+rw_same_cat/pair0078_right.jpg,stamps,36,7161.jpg
+rw_diff_cat/pair0061_right.jpg,stamps,38,2954.jpg
+rw_same_cat/pair0145_left.jpg,stamps,43,2931.jpg
+rw_same_cat/pair0011_right.jpg,stamps,52,2939.jpg
+rw_same_cat/pair0145_right.jpg,stamps,55,7342.jpg
+rw_diff_cat/pair0129_right.jpg,stamps,56,7365.jpg
+rw_diff_cat/pair0236_left.jpg,stamps,61,2915.jpg
+rw_diff_cat/pair0050_left.jpg,stamps,72,2912.jpg
+rw_same_cat/pair0051_right.jpg,strawberries,10,4913.jpg
+rw_diff_cat/pair0249_right.jpg,strawberries,12,335.jpg
+rw_diff_cat/pair0021_right.jpg,strawberries,16,343.jpg
+rw_same_cat/pair0252_left.jpg,strawberries,26,288.jpg
+rw_diff_cat/pair0165_left.jpg,strawberries,27,5834.jpg
+rw_diff_cat/pair0051_right.jpg,strawberries,30,296.jpg
+rw_diff_cat/pair0075_left.jpg,strawberries,34,5846.jpg
+rw_same_cat/pair0185_left.jpg,strawberries,37,4917.jpg
+rw_same_cat/pair0252_right.jpg,strawberries,51,5841.jpg
+rw_diff_cat/pair0109_left.jpg,strawberries,52,5842.jpg
+rw_same_cat/pair0118_left.jpg,strawberries,57,5845.jpg
+rw_diff_cat/pair0016_left.jpg,strawberries,63,345.jpg
+rw_diff_cat/pair0118_left.jpg,strawberries,113,309.jpg
+rw_same_cat/pair0224_right.jpg,sunglasses,8,2052.jpg
+rw_diff_cat/pair0004_left.jpg,sunglasses,15,2051.jpg
+rw_diff_cat/pair0189_left.jpg,sunglasses,27,2036.jpg
+rw_same_cat/pair0023_right.jpg,sunglasses,28,2035.jpg
+rw_diff_cat/pair0274_left.jpg,sunglasses,31,2031.jpg
+rw_diff_cat/pair0115_left.jpg,sunglasses,36,7511.jpg
+rw_diff_cat/pair0291_left.jpg,sunglasses,45,6785.jpg
+rw_diff_cat/pair0090_left.jpg,sunglasses,63,2054.jpg
+rw_same_cat/pair0157_left.jpg,sunglasses,73,7455.jpg
+rw_same_cat/pair0090_right.jpg,sunglasses,79,2029.jpg
+rw_same_cat/pair0224_left.jpg,sunglasses,81,2039.jpg
+rw_same_cat/pair0023_left.jpg,sunglasses,96,7030.jpg
+rw_diff_cat/pair0096_right.jpg,sunglasses,134,2037.jpg
+rw_same_cat/pair0157_right.jpg,sunglasses,198,2038.jpg
+rw_same_cat/pair0139_left.jpg,tomatoes,14,6177.jpg
+rw_same_cat/pair0005_left.jpg,tomatoes,18,64.jpg
+rw_diff_cat/pair0205_right.jpg,tomatoes,21,4448.jpg
+rw_diff_cat/pair0076_left.jpg,tomatoes,22,6156.jpg
+rw_same_cat/pair0005_right.jpg,tomatoes,24,92.jpg
+rw_same_cat/pair0072_right.jpg,tomatoes,26,63.jpg
+rw_diff_cat/pair0055_right.jpg,tomatoes,32,70.jpg
+rw_same_cat/pair0273_left.jpg,tomatoes,46,58.jpg
+rw_diff_cat/pair0206_right.jpg,tomatoes,47,6171.jpg
+rw_same_cat/pair0072_left.jpg,tomatoes,49,6190.jpg
+rw_diff_cat/pair0261_right.jpg,tomatoes,51,6160.jpg
+rw_same_cat/pair0206_right.jpg,tomatoes,75,48.jpg
+rw_same_cat/pair0273_right.jpg,tomatoes,91,54.jpg
+rw_same_cat/pair0139_right.jpg,tomatoes,149,6161.jpg
+rw_diff_cat/pair0285_left.jpg,tree logs,18,4948.jpg
+rw_diff_cat/pair0085_right.jpg,tree logs,19,4967.jpg
+rw_diff_cat/pair0195_left.jpg,tree logs,29,4960.jpg
+rw_diff_cat/pair0007_left.jpg,tree logs,30,4962.jpg
+rw_same_cat/pair0061_right.jpg,tree logs,31,4959.jpg
+rw_diff_cat/pair0262_left.jpg,tree logs,49,4944.jpg
+rw_same_cat/pair0128_right.jpg,tree logs,51,4953.jpg
+rw_same_cat/pair0195_left.jpg,tree logs,51,4964.jpg
+rw_same_cat/pair0262_right.jpg,tree logs,56,4942.jpg
+rw_diff_cat/pair0293_left.jpg,tree logs,93,4957.jpg
+rw_same_cat/pair0128_left.jpg,tree logs,102,4956.jpg
+rw_diff_cat/pair0267_right.jpg,tree logs,109,4969.jpg
+rw_diff_cat/pair0061_left.jpg,tree logs,166,4951.jpg
+rw_diff_cat/pair0294_left.jpg,windows,12,2447.jpg
+rw_diff_cat/pair0010_left.jpg,windows,13,2457.jpg
+rw_diff_cat/pair0278_left.jpg,windows,14,725.jpg
+rw_same_cat/pair0278_right.jpg,windows,16,727.jpg
+rw_same_cat/pair0010_left.jpg,windows,26,2471.jpg
+rw_same_cat/pair0077_left.jpg,windows,30,2456.jpg
+rw_diff_cat/pair0176_left.jpg,windows,36,7268.jpg
+rw_diff_cat/pair0186_left.jpg,windows,40,2450.jpg
+rw_same_cat/pair0211_left.jpg,windows,40,2452.jpg
+rw_diff_cat/pair0144_left.jpg,windows,45,2473.jpg
+rw_same_cat/pair0211_right.jpg,windows,45,2474.jpg
+rw_diff_cat/pair0197_right.jpg,windows,56,2470.jpg
+rw_same_cat/pair0077_right.jpg,windows,62,7628.jpg
+rw_diff_cat/pair0295_right.jpg,windows,87,6889.jpg
+rw_diff_cat/pair0284_right.jpg,windows,108,2449.jpg
+rw_same_cat/pair0144_right.jpg,windows,113,2459.jpg
